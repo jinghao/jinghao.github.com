@@ -80,12 +80,6 @@ JB :
   #
   comments :
     provider : facebook
-    disqus :
-      short_name : jekyllbootstrap
-    livefyre :
-      site_id : 123
-    intensedebate :
-      account : 123abc
     facebook :
       appid : 41217781161
       num_posts: 5
