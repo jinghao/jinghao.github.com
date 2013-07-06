@@ -4754,16 +4754,17 @@ input[type="submit"].btn.btn-mini {
 .not-footer {
   height: auto;
   min-height: 100%;
-  margin-bottom: -5em;
+  margin-bottom: -7em;
 }
 
 .content {
-  padding-bottom: 5em;
+  padding-bottom: 7em;
 }
 
 .footer {
   background-color: #f5f5f5;
   border-top: 1px solid #e5e5e5;
+  margin-top: 2em;
   padding: 2em 0;
   text-align: center;
 }
