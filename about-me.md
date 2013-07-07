@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 title: "About Me"
 description: ""
-category: 
 tags: [profile]
 ---
 {% include JB/setup %}
