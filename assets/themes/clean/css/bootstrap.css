@@ -1059,29 +1059,6 @@ legend + .control-group {
 .nav > .pull-right {
   float: right;
 }
-.tabbable {
-  *zoom: 1;
-}
-.tabbable:before,
-.tabbable:after {
-  display: table;
-  content: "";
-  line-height: 0;
-}
-.tabbable:after {
-  clear: both;
-}
-.tab-content {
-  overflow: auto;
-}
-.tab-content > .tab-pane,
-.pill-content > .pill-pane {
-  display: none;
-}
-.tab-content > .active,
-.pill-content > .active {
-  display: block;
-}
 .nav > .disabled > a {
   color: #999999;
 }
