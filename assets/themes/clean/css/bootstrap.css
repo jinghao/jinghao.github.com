@@ -178,19 +178,6 @@ a:focus {
   -moz-border-radius: 500px;
   border-radius: 500px;
 }
-.row {
-  margin-left: -20px;
-  *zoom: 1;
-}
-.row:before,
-.row:after {
-  display: table;
-  content: "";
-  line-height: 0;
-}
-.row:after {
-  clear: both;
-}
 [class*="span"] {
   float: left;
   min-height: 1px;
@@ -1356,19 +1343,6 @@ legend + .control-group {
   }
 }
 @media (min-width: 768px) and (max-width: 979px) {
-  .row {
-    margin-left: -20px;
-    *zoom: 1;
-  }
-  .row:before,
-  .row:after {
-    display: table;
-    content: "";
-    line-height: 0;
-  }
-  .row:after {
-    clear: both;
-  }
   [class*="span"] {
     float: left;
     min-height: 1px;
@@ -1426,19 +1400,6 @@ legend + .control-group {
   }
 }
 @media (min-width: 1200px) {
-  .row {
-    margin-left: -30px;
-    *zoom: 1;
-  }
-  .row:before,
-  .row:after {
-    display: table;
-    content: "";
-    line-height: 0;
-  }
-  .row:after {
-    clear: both;
-  }
   [class*="span"] {
     float: left;
     min-height: 1px;
