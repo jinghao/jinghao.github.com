@@ -4757,7 +4757,22 @@ input[type="submit"].btn.btn-mini {
 }
 
 .content {
-  padding-bottom: 7em;
+  padding: 0 0 7em 1em;
+}
+
+.about-author {
+  margin: 20px 0 0 0;
+  text-align: right;
+}
+
+.about-author img {
+  margin: 0 0 1em 0;
+}
+
+.about-author p {
+  color: #b3b3b1;
+  font-size: 85%;
+  margin: .5em 0;
 }
 
 .footer {
