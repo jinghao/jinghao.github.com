@@ -306,7 +306,7 @@ h6 small {
 h1,
 h2,
 h3 {
-  line-height: 40px;
+  line-height: 32px;
 }
 h1 {
   font-size: 32px;
@@ -339,8 +339,8 @@ h4 small {
   font-size: 14px;
 }
 .page-header {
-  padding-bottom: 9px;
-  margin: 20px 0 30px;
+  padding-bottom: 0;
+  margin: 20px 0 20px;
   border-bottom: 1px solid #eeeeee;
 }
 ul,
@@ -1324,7 +1324,7 @@ legend + .control-group {
 
   div.about-author-picture {
     float: left;
-    margin: 0 1em 2em 0;
+    margin: 0 1em 0.5em 0;
   }
   
   .about-author li {
@@ -1339,7 +1339,6 @@ legend + .control-group {
   div.content {
     clear: both;
   }
-
 
 }
 @media (max-width: 480px) {
