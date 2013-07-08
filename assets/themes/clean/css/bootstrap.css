@@ -1348,6 +1348,10 @@ legend + .control-group {
   }
 }
 @media (max-width: 480px) {
+  .navbar .brand {
+    font-size: 16px;
+    padding: 10px 0 10px 12px;
+  }
   .page-header h1 small {
     display: block;
     line-height: 20px;
