@@ -9,12 +9,13 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : jinghao.me
+title: jinghao.me
 tagline: Unstructured Data
-author :
-  name : Jinghao Yan
-  email : orijing@gmail.com
-  github : jinghao
+author:
+  name: Jinghao Yan
+  shortname: Jinghao
+  email: orijing@gmail.com
+  github: jinghao
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
