@@ -331,20 +331,38 @@ h5 {
 h6 {
   font-size: 11.9px;
 }
-h1 small {
+h1 small,
+.post-short h1 {
   font-size: 24px;
 }
-h2 small {
+h2 small,
+.post-short h2 {
   font-size: 18px;
 }
-h3 small {
+h3 small,
+.post-short h3 {
   font-size: 16px;
 }
-h4 small {
+h4 small,
+.post-short h4 {
   font-size: 14px;
 }
 .page-header {
   margin: 1em 0;
+}
+.page-header h1 a {
+  color: #333;
+}
+div.post-short {
+  margin-bottom: 1em;
+}
+div.post-full .post-date,
+div.post-full .post-author {
+  font-style: italic;
+  font-weight: 600;
+}
+div.post-header {
+  margin-bottom: 0.5em;
 }
 ul,
 ol {
