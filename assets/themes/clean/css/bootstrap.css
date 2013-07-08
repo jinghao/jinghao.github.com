@@ -308,6 +308,11 @@ h2,
 h3 {
   line-height: 32px;
 }
+h1,
+h2 {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.2em;
+}
 h1 {
   font-size: 32px;
 }
@@ -339,9 +344,7 @@ h4 small {
   font-size: 14px;
 }
 .page-header {
-  padding-bottom: 0;
-  margin: 20px 0 20px;
-  border-bottom: 1px solid #eeeeee;
+  margin: 1em 0;
 }
 ul,
 ol {
@@ -1339,7 +1342,6 @@ legend + .control-group {
   div.content {
     clear: both;
   }
-
 }
 @media (max-width: 480px) {
   .page-header h1 small {
