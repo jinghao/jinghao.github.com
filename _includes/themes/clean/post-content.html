@@ -3,7 +3,7 @@
     <span class="post-date">{{ page.date | date_to_long_string }}</span>
     by 
     <span class="post-author">
-      {% if page.author %}{{page.author}}{% else %}Jinghao{% endif %}
+      {% if page.author %}{{page.author}}{% else %}{{site.author.nickname}}{% endif %}
     </span>
   </div>
   <div class="post-content">

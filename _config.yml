@@ -13,9 +13,12 @@ title: jinghao.me
 tagline: Unstructured Data
 author:
   name: Jinghao Yan
+  nickname: Jinghao
   shortname: Jinghao
   email: orijing@gmail.com
   github: jinghao
+  avatar_img: http://www.gravatar.com/avatar/065074dd6bbb01a64651ae9572ee40d5.png
+  description: Curious engineer and part-time economist from UC Berkeley interested in solving problems through technology
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
