@@ -1,0 +1,28 @@
+<div class="post-full">
+  <div class="post-header">
+    <span class="post-date">{{ page.date | date_to_long_string }}</span>
+    by 
+    <span class="post-author">
+      {% if page.author %}{{page.author}}{% else %}Jinghao{% endif %}
+    </span>
+  </div>
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+{% unless page.categories == empty %}
+  <ul class="tag_box inline">
+    <li><i class="icon-folder-open"></i></li>
+    {% assign categories_list = page.categories %}
+    {% include JB/categories_list %}
+  </ul>
+{% endunless %}  
+
+{% unless page.tags == empty %}
+  <ul class="tag_box inline">
+    <li><i class="icon-tags"></i></li>
+    {% assign tags_list = page.tags %}
+    {% include JB/tags_list %}
+  </ul>
+{% endunless %}
+</div>
