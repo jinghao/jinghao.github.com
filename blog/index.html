@@ -4,8 +4,12 @@ title: jinghao.me
 ---
 {% include JB/setup %}
 {% for page in paginator.posts %}
-  {% assign content = page.content %}
+  {% assign content = page.excerpt %}
   {% include themes/clean/post-short.html %}
+  {% if page.excerpt != page.content %}
+    <a href="{{page.url}}">Read more</a> &middot;
+  {% endif %}
+  <a href="{{page.url}}#comments">Comment</a>
 {% endfor %}
 
 <div id="post-pagination" class="pagination">
