@@ -12,17 +12,17 @@ categories: software programming java
 
 <p>The constructor:</p>
 
-<code><pre>/**
+<pre>/**
  * Constructs a <strong>new StringBuffer</strong> using the default capacity.
  */
 public <strong>StringBuilder</strong>() {
 	this(INITIAL_SIZE);
 }
-</pre></code>
+</pre>
 
 A normal method copied from StringBuffer:
 
-<code><pre>/**
+<pre>/**
  * Optionally modify the underlying char array to only
  * be large enough to hold the characters in <strong>this StringBuffer</strong>.
  */
@@ -32,11 +32,11 @@ public void trimToSize() {
 		System.arraycopy(value, 0, newValue, 0, count);
 		value = newValue;
 	}
-}</pre></code>
+}</pre>
 
 <p>Another method copied directly from StringBuffer:</p>
 
-<code><pre>/**
+<pre>/**
  * Adds the specified code point to the end of <strong>this StringBuffer</strong>.
  *
  * @param		codePoint	the code point
@@ -58,7 +58,7 @@ public <strong>StringBuilder</strong> appendCodePoint(int codePoint) {
 		}
 	}
 	throw new IllegalArgumentException();
-}</pre></code>
+}</pre>
 
 <p>If it's not apparent yet, what's clear is that the authors of IBM Java 5 copied-and-pasted StringBuffer into StringBuilder--word for word, including comments--and changed some variable names until the red underlines (from syntax errors) disappeared, and forgot about the comments.</p>
 
