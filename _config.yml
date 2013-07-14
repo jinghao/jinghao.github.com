@@ -5,6 +5,10 @@ permalink: /posts/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
 
+paginate: 5
+paginate_path: "/blog/page:num"
+
+
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
