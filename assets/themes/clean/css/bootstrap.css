@@ -234,10 +234,6 @@ a:focus {
 .row-fluid [class*="span"].hide {
   display: none;
 }
-[class*="span"].pull-right,
-.row-fluid [class*="span"].pull-right {
-  float: right;
-}
 .container {
   margin-right: auto;
   margin-left: auto;
@@ -431,12 +427,6 @@ blockquote {
   margin: 0 0 20px;
   border-left: 5px solid #eeeeee;
 }
-blockquote p {
-  margin-bottom: 0;
-  font-size: 17.5px;
-  font-weight: 300;
-  line-height: 1.25;
-}
 blockquote small {
   display: block;
   line-height: 20px;
@@ -444,23 +434,6 @@ blockquote small {
 }
 blockquote small:before {
   content: '\2014 \00A0';
-}
-blockquote.pull-right {
-  float: right;
-  padding-right: 15px;
-  padding-left: 0;
-  border-right: 5px solid #eeeeee;
-  border-left: 0;
-}
-blockquote.pull-right p,
-blockquote.pull-right small {
-  text-align: right;
-}
-blockquote.pull-right small:before {
-  content: '';
-}
-blockquote.pull-right small:after {
-  content: '\00A0 \2014';
 }
 q:before,
 q:after,
@@ -1026,9 +999,6 @@ legend + .control-group {
 .nav > li > a > img {
   max-width: none;
 }
-.nav > .pull-right {
-  float: right;
-}
 .nav > .disabled > a {
   color: #999999;
 }
@@ -1088,10 +1058,6 @@ legend + .control-group {
   display: block;
   float: left;
   margin: 0;
-}
-.navbar .nav.pull-right {
-  float: right;
-  margin-right: 0;
 }
 .navbar .nav > li {
   float: left;
@@ -1373,12 +1339,6 @@ legend + .control-group {
   .page-header h1 small {
     display: block;
     line-height: 20px;
-  }
-  .media .pull-left,
-  .media .pull-right {
-    float: none;
-    display: block;
-    margin-bottom: 10px;
   }
   .media-object {
     margin-right: 0;
