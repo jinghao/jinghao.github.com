@@ -1521,3 +1521,33 @@ legend + .control-group {
     margin-left: 0;
   }
 }
+
+.content table {
+  background: #EAEBEC;
+  border: #CCC 1px solid;
+  margin-bottom: 8px;
+  border-spacing: 0px;
+  width: 100%;
+}
+
+.content table th {
+  padding: 8px;
+  border-top: 1px solid #fafafa;
+  border-bottom: 1px solid #e0e0e0;
+  background: #ededed;
+}
+
+.content table td {
+  padding: 5px 8px;
+}
+
+.content table tr:nth-of-type(2n + 2) {
+  background: #f6f6f6;
+}
+
+.content table tr:nth-of-type(2n + 3) {
+}
+
+.content table tr:hover td {
+  background: #DCEBCE;
+}
