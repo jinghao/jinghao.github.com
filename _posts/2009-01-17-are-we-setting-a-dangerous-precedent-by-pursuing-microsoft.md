@@ -2,7 +2,9 @@
 layout: post
 title: Are We Setting a Dangerous Precedent by Pursuing Microsoft?
 created: 1232216493
-categories: politics business
+categories:
+- politics
+- business
 ---
 If Europe has its way, all operating systems will come with nothing: no Internet browser, media player, photo gallery, and soon enough file explorer. They will come with no firewall, CD-burner, text editor, calculator, or even our beloved games like Solitaire! They will only be a bare-bones <em>kernel</em> that no ordinary person will know how to use. Initially few will want to "upgrade"--and eventually none will (if all their friends use the "old" versions).
 

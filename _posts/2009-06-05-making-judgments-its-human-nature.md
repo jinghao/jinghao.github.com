@@ -2,7 +2,8 @@
 layout: post
 title: 'Making Judgments: It''s Human Nature'
 created: 1244270807
-categories: thoughts
+categories:
+- thoughts
 ---
 This comes up often because it is human nature to make judgments. It is human nature to use past experiences (and others' past experiences) to make inferences about the future. Those inferences may not be 100% accurate, but statistically they're the best you got given what you know. One of the main things you learn in history is that forgetting the past leads to repeated history. So why do we as individuals choose to forget the past?
 

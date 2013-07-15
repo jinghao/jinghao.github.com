@@ -2,7 +2,9 @@
 layout: post
 title: Well-Disguised Effort to Broaden the Drug Market
 created: 1245643450
-categories: politics economics
+categories:
+- politics
+- economics
 ---
 The LA Times poses the <a href="http://www.latimes.com/news/nationworld/nation/la-na-healthcare21-2009jun21,0,3211442.story">drug makers' decision to expand their market</a> as a purely humanitarian decision. According to them, "U.S. drug makers agreed Saturday to shell out $80 billion over the next 10 years to lower the cost of medication"--which sounds like a pure donation for a good cause. What they overlooked is the economic motivations behind it, which is to ultimately increase profits by enlarging the market.
 

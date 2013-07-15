@@ -2,7 +2,10 @@
 layout: post
 title: Adjusting Retirement Age Dynamically
 created: 1273426693
-categories: retirement age demographics economics
+categories:
+- retirement age
+- demographics
+- economics
 ---
 There is reason for advanced economies to have entitlements. However, the size of those entitlements should not rise out of the potential for the current generation to pay them. Unfortunately, that's exactly what will happen in the near future--starting now. Medicare, social security (etc) are starting to become underfunded, and by 2020 will consume our entire government (100% of tax revenues at current rates). In fact, that day of reckoning may arrive faster with medical and health care costs skyrocketing.
 

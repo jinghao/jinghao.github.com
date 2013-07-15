@@ -2,7 +2,10 @@
 layout: post
 title: My Next Laptop
 created: 1242254766
-categories: technology laptop computers
+categories:
+- technology
+- laptop
+- computers
 ---
 Technology advances fast. My next laptop (which I foresee in my hands around the time of graduation) must have the following (or better, depending on technology and price):
 <ul>

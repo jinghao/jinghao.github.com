@@ -2,7 +2,10 @@
 layout: post
 title: The Perfect System of Price Discrimination
 created: 1242190403
-categories: school politics economics
+categories:
+- school
+- politics
+- economics
 ---
 The economist's objection to monopolies is that they are not socially efficient--they do not produce up to where price equals marginal cost. Instead, because they are the sole supplier of the market, the price at which they can sell their goods depends on the quantity they decide to produce and sell. When the monopolist tries to sell its good to more people, it must lower the price for its other customers. Hence, they produce less than is socially optimal--the level of production at which they maximize profits is much lower than the socially optimal level.
 

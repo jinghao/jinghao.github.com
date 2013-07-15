@@ -2,7 +2,10 @@
 layout: post
 title: 'Public Encroachment Stage One: Microsoft vs. EU'
 created: 1244962492
-categories: business politics microsoft
+categories:
+- business
+- politics
+- microsoft
 ---
 Half a year ago I warned of the <a href="http://dailycow.org/node/444">potentially grave consequences</a> of the EU pursuing its aggressive "anti-monopoly" policy against profitable American firms, particularly Microsoft.
 

@@ -2,7 +2,11 @@
 layout: post
 title: Given Time, Anything Can Change Part Two
 created: 1250051269
-categories: personality myer-briggs intj entj
+categories:
+- personality
+- myer-briggs
+- intj
+- entj
 ---
 I took the same <a href="http://www.humanmetrics.com/cgi-win/JTypes1.htm">Myer-Briggs personality test</a> as <a href="http://dailycow.org/node/74">I did two years ago</a>. Now I am ENTJ. The breakdown:
 <ul>

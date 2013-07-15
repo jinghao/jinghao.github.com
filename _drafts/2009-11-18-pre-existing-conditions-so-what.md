@@ -2,7 +2,9 @@
 layout: post
 title: Pre-existing Conditions--So What?
 created: 1258603095
-categories: health care health insurance
+categories:
+- health care
+- health insurance
 ---
 The general consensus on coverage is that insurance companies should be "required" to cover those with pre-existing conditions. That begs the question--why wouldn't they?
 

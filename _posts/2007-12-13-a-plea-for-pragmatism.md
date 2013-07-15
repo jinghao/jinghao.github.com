@@ -2,7 +2,10 @@
 layout: post
 title: A Plea for Pragmatism
 created: 1197588094
-categories: atheism religion huckabee
+categories:
+- atheism
+- religion
+- huckabee
 ---
 Michael Huckabee worries me.  A lot.
 

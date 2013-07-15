@@ -2,7 +2,10 @@
 layout: post
 title: If I Designed the Stimulus Package...
 created: 1247024886
-categories: stimulus package economics politics
+categories:
+- stimulus package
+- economics
+- politics
 ---
 It would be:
 <ol>

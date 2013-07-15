@@ -2,11 +2,13 @@
 layout: post
 title: Solid State Drives--The Solution in the Meantime
 created: 1249183538
-categories: technology hardware
+categories:
+- technology
+- hardware
 ---
 The main impediment to the mainstream adoption of sold state drives is that affordability is not matched by capacity and performance. Simply put: Affordable drives lack random-write performance, and high-performance drives are expensive.
 
-As is the nature of the microchip industry, cost will fall exponentially as capacity expands exponentially, so in a few years, neither will not be a major concern. But the disappointing [random-write performance](http://www.anandtech.com/storage/showdoc.aspx?i=3531&p=1) is a limitation that affects all consumer-oriented drives (the affordable ones). Random and sequential reads are superb, sequential writes are also worth the money, but random writes of 4kBs of data--the type that constitute a majority of write action--are unacceptably slow (a fifth to half a second), and this does stick out.
+As is the nature of the microchip industry, cost will fall exponentially as capacity expands exponentially, so in a few years, neither will not be a major concern. But the disappointing <a href="http://www.anandtech.com/storage/showdoc.aspx?i=3531&p=1">random-write performance</a> is a limitation that affects all consumer-oriented drives (the affordable ones). Random and sequential reads are superb, sequential writes are also worth the money, but random writes of 4kBs of data--the type that constitute a majority of write action--are unacceptably slow (a fifth to half a second), and this does stick out.
 
 A driver update lets you sacrifice random read performance for random-write performance, and this does cause the latter to be unobtrusive, but not superb. Is that the limit of technology for those of us with non-enterprise budgets?
 

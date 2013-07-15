@@ -2,7 +2,9 @@
 layout: post
 title: 'The Social Contract: The Origin of Human Morality'
 created: 1238628496
-categories: random politics
+categories:
+- random
+- politics
 ---
 The sense of morality we in the civilized society share today derives its origin from the necessary condition of the establishment of civilization. In order to maintain harmony and to minimize conflict between distinct members of society, people naturally agreed to certain "ground rules" (explicitly or implicitly; voluntarily or by force), often called the "Social Contract" (or the agreement that every member of society must agree to upon entering society), that served to achieve that. The fundamental goal of those "ground rules" is to preserve individual freedom insofar as it does not interfere with that of others; but to limit it where it unfairly intrudes upon that of others.
 

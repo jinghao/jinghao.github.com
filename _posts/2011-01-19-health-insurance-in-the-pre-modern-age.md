@@ -2,7 +2,10 @@
 layout: post
 title: Health Insurance in the Pre-Modern Age
 created: 1295506673
-categories: health insurance tricia health care
+categories:
+- health insurance
+- tricia
+- health care
 ---
 The <a href="http://www.guardian.co.uk/world/2011/jan/20/republicans-repeal-healthcare-reforms-vote">recent development regarding Obama's health care legislation</a> begs the question: How was health insurance organized before the modern age? Let me address that question with a personal anecdote.
 
@@ -10,6 +13,6 @@ A few days ago, I pulled a muscle playing Kinect too intensely. I wasn't aware t
 
 Hospitals were far away, and it was late. And plus, it wasn't <em>that</em> severe. But I needed help, and I knew it.
 
-Thankfully, Tricia was nearby and helped me out yesterday and today. Walking out to pick up food and purchase a heat pack would have been too painful to bear.
+Thankfully, <a href="http://dailycow.org/user/7">Tricia</a> was nearby and helped me out yesterday and today. Walking out to pick up food and purchase a heat pack would have been too painful to bear.
 
 So this is my quick story regarding health care in the pre-modern age: Your immediate circle of friends and family.

@@ -2,7 +2,10 @@
 layout: post
 title: It Worked for Salt--It'll Work for Rice
 created: 1257665879
-categories: nutrition developing world economics
+categories:
+- nutrition
+- developing world
+- economics
 ---
 Before we worry about how many people go to bed hungry in the world, we must tackle an even more damaging yet easy-to-fix problem--how many people are simply malnourished.
 

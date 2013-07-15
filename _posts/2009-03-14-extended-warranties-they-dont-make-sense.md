@@ -2,7 +2,9 @@
 layout: post
 title: 'Extended Warranties: They Don''t Make Sense'
 created: 1237074768
-categories: random money psychology
+categories:
+- random
+- money psychology
 ---
 When you buy a 1000 dollar HDTV and are offered an extended warranty for 250 bucks a year, what thoughts go through your head? That you just made a heavy investment and that 250 bucks a year is a reasonable price for ensuring that the TV stays operable? If that's your initial response, don't fret; most people act like that. The truth is, that's how places like Best Buy makes most of its profits.
 

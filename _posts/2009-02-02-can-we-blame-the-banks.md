@@ -2,7 +2,11 @@
 layout: post
 title: Can We Blame the Banks?
 created: 1233592159
-categories: economy politics business finance
+categories:
+- economy
+- politics
+- business
+- finance
 ---
 Last week it was announced that our economy contracted 4%, a sharp decline from the 3.7% growth in the 4th quarter of 2007, and I'm sure many of us know the reason why: the mistakes of banks who made bad loans and called them AAA-quality assets. Sure, they made mistakes due to lax oversight, but is the blame all theirs?
 

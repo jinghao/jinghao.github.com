@@ -2,7 +2,11 @@
 layout: post
 title: Deciding Emissions Targets--It's a Global Responsibility
 created: 1247207482
-categories: environment pollution emissions politics
+categories:
+- environment
+- pollution
+- emissions
+- politics
 ---
 In a <a href="http://www.nytimes.com/2009/07/09/world/europe/09prexy.html">NYT article</a>, the author tragically blames the most vulnerable and innocent stakeholders (the developing nations) for the failure of the G8 climate talks by attributing the failure their refusal "to commit to specific goals for slashing heat-trapping gases by 2050, undercutting the drive to build a global consensus."
 

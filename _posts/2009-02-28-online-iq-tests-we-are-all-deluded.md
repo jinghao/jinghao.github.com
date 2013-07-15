@@ -2,7 +2,8 @@
 layout: post
 title: 'Online IQ Tests: We Are All Deluded'
 created: 1235849414
-categories: random
+categories:
+- random
 ---
 I know. I was too.
 

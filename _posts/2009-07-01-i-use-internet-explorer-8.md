@@ -2,7 +2,9 @@
 layout: post
 title: I Use Internet Explorer 8
 created: 1246434653
-categories: ie8 microsoft
+categories:
+- ie8
+- microsoft
 ---
 For Gmail, ironically. Here's why it sucks:
 

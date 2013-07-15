@@ -2,7 +2,8 @@
 layout: post
 title: Political Motives in Public Policy
 created: 1237184149
-categories: politics
+categories:
+- politics
 ---
 A group of Republican governors are standing together to <a href="http://www.usatoday.com/news/nation/2009-03-15-unemployment_N.htm">reject the portion of the stimulus money</a> dedicated to the working poor, recently unemployed and otherwise desperate as a part of their political campaign to gain prominence among fiscal conservatives. In short, they are sacrificing the nation's most needy (and those most likely to immediately spend the money on necessities) for their own political motives.
 

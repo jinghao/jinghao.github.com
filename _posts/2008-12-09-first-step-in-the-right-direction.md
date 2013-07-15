@@ -2,7 +2,10 @@
 layout: post
 title: First Step in the Right Direction
 created: 1228844997
-categories: wtf funny black bird
+categories:
+- wtf
+- funny
+- black bird
 ---
 <strong>Complaint:</strong>
 <img src="/system/files/3691_0.jpg" alt="trying to get ahead" />

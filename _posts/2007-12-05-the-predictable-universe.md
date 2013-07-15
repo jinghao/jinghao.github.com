@@ -1,0 +1,13 @@
+---
+layout: post
+title: The Predictable Universe
+created: 1196917675
+categories: []
+---
+Even with Einsteinian modifications, Newtonian mechanics stipulates that no elementary particle can alter its own momentum or position, and that all changes are dictated by the interactions between multiple particles. (I.E. a particle stays in constant motion until affected by the force of another) Hence the position and momentum (linear and angular) of every elementary particle can only be altered by other particles, and nothing more. And since a multi-particle object (a macro-object) is just a collection of elementary particles, a macro-object is subjected to the same universal laws, and hence moves according to the interactions between multiple individual particles.
+
+Let us consider a simple three-particle (A, B, and C) example in a vacuum in space free of external forces (such as gravity). Momentum is necessarily conserved because of Newton's laws, and kinetic energy is also necessarily conserved because elementary particles only interact elastically. There may be gravity (very small) and electrostatic attraction between the particles, but they are the only things that affect each other. Given the initial state (momentum, position, mass and electrostatic charge maybe) of each particle, by simple mechanics, a diligent worker can determine the complete state of each particle a time <em>t</em> later. It's as simple as solving a few three-row augmented matrices (after setting it up, of course). This can be said for a 4-particle system, a 5-particle system, and by extension, a n-particle system.
+
+Hence, because this simple analysis involving three particles does not degrade as N increases, we can substitute the number of particles in the universe for N and provide the states of each, and in effect, we have the equation of the universe as a function of <em>t</em>. Unfortunately, it would take more than the number of particles in the universe to represent this system of equations, and unless we have an infinitely-fast (instant) calculator, by the time the matrices are computed, the states would have already changed. Hence, although predicting the future is practically impossible by all means, it is theoretically possible given the initial states of each particle in the universe. It's not a matter of whether anyone can predict the future (they can't); it's a matter of whether the future is defined.
+
+The state and future of the universe is completely determined by the state of the universe now. The states of all the particles in the universe conspired together to make me compose this.

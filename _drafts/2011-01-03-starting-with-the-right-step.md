@@ -2,7 +2,12 @@
 layout: post
 title: Starting with the Right Step
 created: 1294096954
-categories: two sigma job google facebook dropbox
+categories:
+- two sigma
+- job
+- google
+- facebook
+- dropbox
 ---
 In my last post, I discussed the various factors that influenced my decision to join the workforce upon graduation. Of course, the value of that decision depends on where I begin my career. I will explore that here.
 

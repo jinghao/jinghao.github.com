@@ -2,7 +2,10 @@
 layout: post
 title: Job Application Fee a la College Application Fee
 created: 1299100624
-categories: google employment application
+categories:
+- google
+- employment
+- application
 ---
 Remember when you had to pay $85 to apply to each college? It allowed them to pay people to pore over every application, to distinguish between seemingly-indistinguishable applicants, to select the few who would best excel in their institution.
 

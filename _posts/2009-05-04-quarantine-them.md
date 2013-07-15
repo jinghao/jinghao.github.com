@@ -2,7 +2,9 @@
 layout: post
 title: Quarantine Them!
 created: 1241455789
-categories: politics border control
+categories:
+- politics
+- border control
 ---
 The H1N1 virus (swine flu) scares me. Now that it's within breathing distance of UC Berkeley, I'm scared even more: "A parent of two Malcolm X Elementary School students has been diagnosed with the H1N1 virus, prompting the Berkeley Unified School District to dismiss classes at the school for a week, city officials announced Sunday."
 

@@ -2,7 +2,10 @@
 layout: post
 title: A Step Into the "Real World"
 created: 1292832710
-categories: job finance economics
+categories:
+- job
+- finance
+- economics
 ---
 It's been a while since my last post here. This semester has kept me fairly busy, with the combination of projects, case competitions, job interviews, among other activities. All of them were fairly routine, except for finding the right full time job. But before we get there, let's step back a bit to get some perspective.
 

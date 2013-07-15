@@ -2,7 +2,10 @@
 layout: post
 title: A Summer of Learning
 created: 1281163256
-categories: summer internship facebook
+categories:
+- summer
+- internship
+- facebook
 ---
 I learned a lot this summer at Facebook. Here's a list of things that I never really used before:
 <ul>

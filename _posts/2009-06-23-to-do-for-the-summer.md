@@ -2,7 +2,9 @@
 layout: post
 title: To Do for the Summer
 created: 1245821102
-categories: summer personal
+categories:
+- summer
+- personal
 ---
 If I intend to accomplish anything this summer, I need to make it into a list:
 <ol>

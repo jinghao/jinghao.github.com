@@ -2,7 +2,10 @@
 layout: post
 title: Are You Christian? Who Cares...Right?
 created: 1205812192
-categories: religion christianity atheism
+categories:
+- religion
+- christianity
+- atheism
 ---
 If there is one thing that I learned from Monday's discussion of religion, it is that whatever you believe in, you should not let yourself be a slave to its rhythms. If you cannot truly understand it--and I guarantee you that you do not understand it--you should not let your life revolve around it.
 

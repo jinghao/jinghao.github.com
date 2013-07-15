@@ -2,7 +2,11 @@
 layout: post
 title: Political Discord at the Copenhagen Summit
 created: 1261553078
-categories: climate environment politics copenhagen
+categories:
+- climate
+- environment
+- politics
+- copenhagen
 ---
 Mark Lynas, A so-called journalist for The Guardian claims that <a href="http://www.guardian.co.uk/environment/2009/dec/22/copenhagen-climate-change-mark-lynas">China wrecked the Copenhagen deal</a>. To see why, let's take a look at the emissions per capita:
 

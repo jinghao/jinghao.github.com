@@ -2,7 +2,10 @@
 layout: post
 title: Bing Shopping Needs a Brand
 created: 1277876662
-categories: google bing shopping
+categories:
+- google
+- bing
+- shopping
 ---
 Google's shopping website has a brand: Froogle.com. Bing Shopping on the other hand, is just another tab within bing.com. Arguably it is search related--but the focus on shopping is lost.
 

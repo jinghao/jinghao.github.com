@@ -2,7 +2,10 @@
 layout: post
 title: The Chinese Yuan and the Imminent Inflation Explosion
 created: 1271025879
-categories: inflation economics currency
+categories:
+- inflation
+- economics
+- currency
 ---
 The run-up in commodity prices prior to the onset of the current recession was strongly driven by the quick appreciation of the Yuan during that time. The 21% appreciation in the Yuan effectively made commodities--oil, metals, the basic needs of an exploding industrial economy--relatively cheaper for China. That in conjunction with rising incomes caused one of the most dramatic climb in demand for those commodities.
 

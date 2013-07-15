@@ -2,7 +2,9 @@
 layout: post
 title: The Tension Between Fair Outcomes and Fair Mechanisms
 created: 1242581815
-categories: thoughts economics
+categories:
+- thoughts
+- economics
 ---
 Many politically-sensitive topics become trivial when considering only their immediate outcomes--the poor deserve a decent life too, so give them the basic necessities like food, shelter and some spending money. But when considered as a subset of the entire picture, that line of reasoning is disastrous. The poor will have no incentive to work (if they can't earn reasonably more than what they're given for free to cover for their time and effort) and to limit their family size. With a smaller tax-base and a much larger tax-burden, the rest of society will crumble underneath the growing weight of taxation, pushing the society further into poverty.
 

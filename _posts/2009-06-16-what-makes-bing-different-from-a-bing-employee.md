@@ -2,7 +2,8 @@
 layout: post
 title: What Makes Bing Different--From a Bing Employee
 created: 1245210728
-categories: microsoft
+categories:
+- microsoft
 ---
 Of course, I can't divulge the non-public details but I will try my best to explain, from the enlightened user's perspective, why I believe Bing is qualitatively different from the familiar names like Google and Yahoo and why it's worth a try or more.
 

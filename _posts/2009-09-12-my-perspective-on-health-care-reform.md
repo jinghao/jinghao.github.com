@@ -2,7 +2,8 @@
 layout: post
 title: My Perspective on Health Care Reform
 created: 1252800138
-categories: health care
+categories:
+- health care
 ---
 For years, I've been planning to synthesize my perspective on the growing need for health care reform, but I've had neither the will-power nor the time to compose something as comprehensive yet completely rational as <a href="http://www.theatlantic.com/doc/200909/health-care">this</a>. Although it is a lengthy read, I assure you every word is worth your time.
 

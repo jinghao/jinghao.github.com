@@ -2,7 +2,8 @@
 layout: post
 title: AdBlock for Google Chrome
 created: 1239767409
-categories: programming
+categories:
+- programming
 ---
 The one major problem with Chrome is that, unlike Mozilla Firefox, it is backed by a gigantic corporation whose goal is to maximize return to shareholders. Despite its performance and design advantages, it misses many of the advantages of being a community-developed software, including extensibility.
 
@@ -12,6 +13,6 @@ Because Chrome does not yet have a fully-functional extension system, everything
 
 Bonus feature: Configure your exceptions list by following the instructions at the end of the installation.
 
-**CliffsNotes Edition:** Just <a href="/system/files/AdBlockforChrome.exe">download the installation file (click here)</a>, run it, and follow the brief instructions at the end to enjoy ad-free browsing. Have fun! (Obviously this works only on Windows) Note: You MUST <strong>update and close</strong> Google Chrome before installing this.
+<strong>CliffsNotes Edition:</strong> Just <a href="/system/files/AdBlockforChrome.exe">download the installation file (click here)</a>, run it, and follow the brief instructions at the end to enjoy ad-free browsing. Have fun! (Obviously this works only on Windows) Note: You MUST <strong>update and close</strong> Google Chrome before installing this.
 
 If you like this, please <a href="http://digg.com/software/AdBlock_for_Google_Chrome_5">Digg it</a> and share it with your friends.

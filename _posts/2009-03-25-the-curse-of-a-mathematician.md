@@ -2,7 +2,8 @@
 layout: post
 title: The Curse of a Mathematician
 created: 1238033596
-categories: random
+categories:
+- random
 ---
 In light of the fact that I'm nineteen turning twenty, I will tell a story of me as a child only a decade ago.
 

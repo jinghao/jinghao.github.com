@@ -2,7 +2,9 @@
 layout: post
 title: Do Games Improve Academic Performance?
 created: 1235267693
-categories: random funny
+categories:
+- random
+- funny
 ---
 In response to the <a href="http://www.mercurynews.com/ci_11748201">Microsoft initiative to explore the educational link to video games</a> (basically justifying addiction to World of Warcraft because it "can encourage scientific thinking"), a junior at Fargo South High School claimed that "I've played a lot of puzzle-solving games and they actually help sharpen my brain," which by itself could be a respectable claim.
 

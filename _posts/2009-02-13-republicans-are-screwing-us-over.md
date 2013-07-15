@@ -2,7 +2,11 @@
 layout: post
 title: Republicans Are Screwing Us Over
 created: 1234544912
-categories: finance economy politics business
+categories:
+- finance
+- economy
+- politics
+- business
 ---
 The stimulus package was meant to be over a trillion dollars, and spent mostly on ready-made infrastructure projects that pay for future growth, but instead it's become a package that's 20% smaller and is half saturated with tax cuts. Right now we need public transportation systems. We need subways, high speed rail, buses. We need investment in green energy. We need the complete nationalization of banks like Bank of America and Citigroup and the resulting elimination of their shareholders.
 

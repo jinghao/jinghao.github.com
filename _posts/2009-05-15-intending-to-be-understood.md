@@ -2,7 +2,10 @@
 layout: post
 title: Intending to Be Understood
 created: 1242374838
-categories: thoughts random economics
+categories:
+- thoughts
+- random
+- economics
 ---
 In a <a href="http://www.nytimes.com/2009/05/14/opinion/14Roubini.html">NYT article</a> esteemed NYU Stern professor Nouriel Roubini discusses the falling prestige of the dollar and the inevitable elevation of the Chinese RMB to the world's de facto reserve currency. In attempting to adapt his explanations to the general public, he completely butchers his reasoning, and instead says something completely wrong.
 

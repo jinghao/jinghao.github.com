@@ -2,7 +2,8 @@
 layout: post
 title: Formalization of an Informal Assignment
 created: 1239498090
-categories: school
+categories:
+- school
 ---
 I have to write a six page paper by Monday to answer the following prompt:
 <blockquote>The film Imitation of Life takes place between 1947 and 1959 in and around New York City, following the lives of two single mothers. Each mother has a very different relationship to money, work, and family. Write an essay that attempts to account for why these characters are so different. Be careful to avoid simple compare-contrast arguments. Instead, focus on the meanings behind those differences, paying particularly close attention to their relationships to money, work, and family. As with the above prompt, since at least part of this prompt is historical and/or sociological in nature, use one historical, sociological, or critical source to assist you in your argument.</blockquote>
@@ -14,6 +15,6 @@ In essence, for the assignment I need to come up with the following and write it
 
 The only difference between the two mothers is race. One's black and one is white. Everything else is a consequence of it: in the 1940s-1950s America, being black meant limited career opportunities. But I can't explain why they're different just because of their difference in race.
 
-I might as well write an essay about how this is impossible given the dependent nature of everything but what each character is born with. The <a href="/posts/predictable-universe">state of the entire universe at any particular instant is a function of the immediately-preceding state</a>, and in a similar way, the circumstances of the characters are a direct result of how they began.
+I might as well write an essay about how this is impossible given the dependent nature of everything but what each character is born with. The <a href="http://dailycow.org/node/145">state of the entire universe at any particular instant is a function of the immediately-preceding state</a>, and in a similar way, the circumstances of the characters are a direct result of how they began.
 
 This doesn't make sense. Help me. This is why I'm an Engineer, so I can actually solve and prove things that can be solved and proven.

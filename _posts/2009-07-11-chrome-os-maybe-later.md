@@ -2,7 +2,11 @@
 layout: post
 title: 'Chrome OS: Maybe Later'
 created: 1247298358
-categories: os microsoft google chrome
+categories:
+- os
+- microsoft
+- google
+- chrome
 ---
 Yesterday, I heard Steven Sinofsky give an inspirational presentation about how far Microsoft has come with its Windows franchise--particularly Windows 7--and how they managed to scale to a division that earns more than half of its operating income. He shared with us the amount of work the entire Windows team put into the product to make it a success (You can find some of the engineering principles and demonstrations on <a href="http://blogs.msdn.com/e7/">his blog</a>) and his vision for the future.
 

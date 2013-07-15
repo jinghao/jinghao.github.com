@@ -1,0 +1,11 @@
+---
+layout: post
+title: The Link Between Dyslexia and Entrepreneurship
+created: 1197666800
+categories: []
+---
+Businessweek claims that <a href="http://www.businessweek.com/bwdaily/dnflash/content/dec2007/db20071212_539295.htm?campaign_id=rss_daily" rel="external">dyslexia is an asset</a> because it forces the dyslexic to grasp the big picture, gives him persistence, compels him to rely on others for help, and immunizes him against fears of failure. That argument is as rational as claiming that being blind is an asset because it forces the blind to grasp the big picture, gives him persistence, compels him to rely on others for help, and immunizes him against fears of failure (because you already are)--I've seen blind people trying to navigate using their walking sticks, and I must admit, that requires the persistence and patience that I don't have.
+
+The first case study involves Alan Meckler, the CEO of IT and online imagery hub Jupitermedia (JUPM), who "was accepted to Columbia University in 1965" although "he had some of the lowest college boards of any student ever admitted"; he "got a 405 or 410 in English" even though "in those days you got a 400 just for putting your name down!" Interestingly, Meckler did not learn he was dyslexic until age 58 although the symptoms were obvious--"he struggles with walking and driving directions and interpreting charts and graphs" and "prefers to listen to someone explain a problem to him, rather than sit down and read 20 pages describing it." But honestly, who wouldn't? I would rather listen to someone explain a problem (well) than to sit down and read 20 pages describing it.
+
+The article even laud Ben Foss--"a researcher in assistive technologies in Intel's Digital Health Group" who "started a nonprofit and made a documentary film about the first man in America to win an employee discrimination case based on dyslexia"--for his work. How can you claim employee discrimination if you are affected by a mental disorder? Surely Intel or Cisco or any other company for that matter has the right to refuse employment to one who would not be as productive. Otherwise a homeless man on the street would be justified in suing Microsoft for discriminating against his stupidity.

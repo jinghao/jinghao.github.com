@@ -2,7 +2,11 @@
 layout: post
 title: Addressing Market Failure in the Telecom Industry
 created: 1300742519
-categories: telecom economics business market failure
+categories:
+- telecom
+- economics
+- business
+- market failure
 ---
 The American telecom industry is a shining example of a market failure: An industry with natural monopoly characteristics where existing regulation not only are unhelpful but contribute to the concentration of power. AT&T's recent attempt to acquire T-Mobile (America), whose obvious consequence is less competition for customers, serves to highlight that fact. Given the <a href="/node/1093">widespread (and unconcentrated) nature of the impact</a>, it is difficult for any individual or small groups of individuals to resolve the issue--competitors are not much better--so what can be done?
 

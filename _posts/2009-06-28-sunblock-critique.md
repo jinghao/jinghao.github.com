@@ -2,7 +2,11 @@
 layout: post
 title: Sunblock Critique
 created: 1246242949
-categories: sunscreen sunblock summer review
+categories:
+- sunscreen
+- sunblock
+- summer
+- review
 ---
 Summer has arrived! We "cows" spend lots of time in the sun, so here is a review of the sunblock tested by your very own sunblock critic, me. 
 

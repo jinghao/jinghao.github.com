@@ -2,7 +2,8 @@
 layout: post
 title: The Classic Correlation vs. Causation Pitfall
 created: 1245905137
-categories: science
+categories:
+- science
 ---
 Len Gillman from Auckland University of Technology, who led the <a href="http://news.bbc.co.uk/2/hi/science/nature/8115464.stm">study</a> that concluded that "microevolution happens faster in warmer environments", is baffled by his findings, which is "the first time the effect has been shown in mammals, which regulate their own body temperature."
 
