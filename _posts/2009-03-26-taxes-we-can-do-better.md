@@ -34,7 +34,7 @@ According to the <a href="http://www.ers.usda.gov/publications/EIB14/eib14j.pdf"
 
 <h3>The Commodity Taxes</h3>
 
-Last year I made a <a href="http://dailycow.org/node/286">strong case</a> for an increase in oil taxes. A 200% tax on oil and coal--at <a href="http://www.eia.doe.gov/cneaf/coal/page/special/feature.html">current consumption levels</a> and $50/barrel, $50/ton long-term average prices (respectively)--would net $900 billion dollars a year. Of course, with this kind of punitive tax, this is likely to go down significantly as the economy adjusts away from energy-intensive industries, so we can only consider this as a decreasing stream of revenue where we use land tax to compensate in the future. The environmental and social impacts are obvious.
+Last year I made a <a href="/posts/raise-oil-taxes">strong case</a> for an increase in oil taxes. A 200% tax on oil and coal--at <a href="http://www.eia.doe.gov/cneaf/coal/page/special/feature.html">current consumption levels</a> and $50/barrel, $50/ton long-term average prices (respectively)--would net $900 billion dollars a year. Of course, with this kind of punitive tax, this is likely to go down significantly as the economy adjusts away from energy-intensive industries, so we can only consider this as a decreasing stream of revenue where we use land tax to compensate in the future. The environmental and social impacts are obvious.
 
 <h3>Other Sin Taxes</h3>
 
