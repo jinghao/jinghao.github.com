@@ -4,4 +4,4 @@ title: This blog sucks
 created: 1189753251
 categories: []
 ---
-But it sure looks cooler than <a href="http://blog.originxt.com">XT Blog.</a>
+But it sure looks cooler than [XT Blog.](http://blog.originxt.com)

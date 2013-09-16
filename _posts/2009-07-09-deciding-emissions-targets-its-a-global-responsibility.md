@@ -8,7 +8,7 @@ categories:
 - emissions
 - politics
 ---
-In a <a href="http://www.nytimes.com/2009/07/09/world/europe/09prexy.html">NYT article</a>, the author tragically blames the most vulnerable and innocent stakeholders (the developing nations) for the failure of the G8 climate talks by attributing the failure their refusal "to commit to specific goals for slashing heat-trapping gases by 2050, undercutting the drive to build a global consensus."
+In a [NYT article](http://www.nytimes.com/2009/07/09/world/europe/09prexy.html), the author tragically blames the most vulnerable and innocent stakeholders (the developing nations) for the failure of the G8 climate talks by attributing the failure their refusal "to commit to specific goals for slashing heat-trapping gases by 2050, undercutting the drive to build a global consensus."
 
 In reality, "emerging powers refused to agree because they wanted industrial countries to commit to midterm goals in the next decade and to follow through on promises of financial and technological help for poorer nations." That demand makes sense, considering developing economies want access to the same development opportunities available to developed nations. Not only was the bulk of the emissions produced by the developed countries in the past two centuries, but even now, developing countries produce a fraction (a tenth to a fifth) of the emissions of developed countries per person. They don't want to limit themselves to that, especially to simply pay for the environmental debt incurred by the industrialized nations.
 

@@ -10,7 +10,7 @@ In fact, recently I saw that Woot.com was offering two 2GB MicroSD cards (with a
 
 If we take a look at a specific company, we will see that SanDisk had a terrible quarter, and understandably its stock is down nearly 80% since its recent peak just last summer. But I noticed something interesting about it: It collects a lot of money just from royalty alone.
 
-Samsung alone pays SanDisk <a href="http://www.bizjournals.com/austin/stories/2008/09/08/daily9.html" rel="external">500 million dollars annually</a>. There are numerous other memory chip makers who probably also pay royalties. Since SanDisk collects anywhere from 500 million to a billion (or more) dollars a year from royalties, wouldn't it make more sense to restructure in the following way?
+Samsung alone pays SanDisk [500 million dollars annually](http://www.bizjournals.com/austin/stories/2008/09/08/daily9.html). There are numerous other memory chip makers who probably also pay royalties. Since SanDisk collects anywhere from 500 million to a billion (or more) dollars a year from royalties, wouldn't it make more sense to restructure in the following way?
 
 First, stop making and developing flash memory chips that are unprofitable; the market is already highly saturated. This will cut costs significantly.
 

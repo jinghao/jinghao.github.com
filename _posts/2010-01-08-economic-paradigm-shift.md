@@ -6,4 +6,4 @@ categories:
 - economy
 - china
 ---
-<a href="http://www.nytimes.com/2010/01/07/world/asia/07scholar.html">This</a> is the seed for the second wave of economic modernization in China, set to take over the declining role of dirty industry.
+[This](http://www.nytimes.com/2010/01/07/world/asia/07scholar.html) is the seed for the second wave of economic modernization in China, set to take over the declining role of dirty industry.

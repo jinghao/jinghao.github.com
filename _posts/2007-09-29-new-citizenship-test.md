@@ -4,7 +4,7 @@ title: New citizenship test
 created: 1191098574
 categories: []
 ---
-The Bush administration unveiled a revamped citizenship test Thursday "intended to promote assimilation and patriotism -- a redesign some critics contend erects a higher hurdle for immigrants who want to become citizens." According to <a href="http://www.latimes.com/news/printedition/asection/la-na-citizenship28sep28,1,6693142.story?coll=la-news-a_section" target="_blank">the Los Angeles Times</a>:
+The Bush administration unveiled a revamped citizenship test Thursday "intended to promote assimilation and patriotism -- a redesign some critics contend erects a higher hurdle for immigrants who want to become citizens." According to [the Los Angeles Times](http://www.latimes.com/news/printedition/asection/la-na-citizenship28sep28,1,6693142.story?coll=la-news-a_section):
 
 > The 100 new civics questions -- which test knowledge of American government, history and civics and take effect Oct. 1, 2008 -- will require less rote memorization and are meant to focus more on fostering identification with American values. For example, applicants may currently be asked, "What country did we fight during the Revolutionary War?" But starting next year, applicants could be asked to explain why the colonists fought the British. They may also have to describe what the "rule of law" is and outline one constitutional amendment concerning the right to vote. (Applicants are asked 10 questions and must answer at least six correctly to pass.)
 

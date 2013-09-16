@@ -4,7 +4,7 @@ title: 'Milking It For All It''s Worth:  Holy Cow!'
 created: 1192840512
 categories: []
 ---
-I figured since Nobel Laureates, while intelligent, have nothing to do with cows, I'd spread a little Friday cheer by posting some facts about... cows and what they eat (and give out), with facts taken from <a href="http://www.geocities.com/cowseggs/cows.html">here</a>.  Okay, so its a geocities site, but bear with me here...
+I figured since Nobel Laureates, while intelligent, have nothing to do with cows, I'd spread a little Friday cheer by posting some facts about... cows and what they eat (and give out), with facts taken from [here](http://www.geocities.com/cowseggs/cows.html).  Okay, so its a geocities site, but bear with me here...
 
 <blockquote>
 

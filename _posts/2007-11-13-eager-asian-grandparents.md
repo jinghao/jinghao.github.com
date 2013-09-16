@@ -4,7 +4,7 @@ title: Eager Asian Grandparents
 created: 1195003632
 categories: []
 ---
-Joey: hey <a href="http://dailycow.org/node/99">that attractiveness chart</a> makes a lot of sense
+Joey: hey [that attractiveness chart](http://dailycow.org/node/99) makes a lot of sense
 Me: I can probably place everyone I know somewhere on the graph
 Me: usually I find them to be more left-leaning <_<
 Joey: left?

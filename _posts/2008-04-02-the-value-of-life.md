@@ -4,11 +4,11 @@ title: The Value of Life
 created: 1207200691
 categories: []
 ---
-What is your life worth to you? Isn't it worth everything? Everything you have? Your stuff, personality, education, and--many often forget--your friends and relatives. In a <a href="node/248">tragic suicide attempt I witnessed today</a> (which Tricia kindly described), the victim-criminal had forgotten the most important part: those who care the most about her.
+What is your life worth to you? Isn't it worth everything? Everything you have? Your stuff, personality, education, and--many often forget--your friends and relatives. In a [tragic suicide attempt I witnessed today](node/248) (which Tricia kindly described), the victim-criminal had forgotten the most important part: those who care the most about her.
 
 As I sat there in the lounge reading about hash tables, hash sets and a data-compression algorithm I won't discuss in detail, the girl's phone kept ringing non-stop, playing Debussy's beautiful song over and over again to the call of those who truly care about her; I realized something was wrong, but I did not know what. Why would she refuse to pick up her phone? Why did she look so angry at the world, ready to take revenge on it in the most devastating way possible? I thought to myself: No, I must be insane--people don't REALLY commit suicide because they are rational.
 
-But she was not. Had she been allowed to follow through with her selfish plan to find peace by causing pain, she would have put to waste all the time and effort she and others have invested in developing her, all of the compassion and care of her friends and relatives--everything that involved her. The worst form of transaction from <a href="node/247">a utilitarian perspective</a> is one that harms not just yourself but others. The girl simply made an incorrect assessment of the value of her life.
+But she was not. Had she been allowed to follow through with her selfish plan to find peace by causing pain, she would have put to waste all the time and effort she and others have invested in developing her, all of the compassion and care of her friends and relatives--everything that involved her. The worst form of transaction from [a utilitarian perspective](node/247) is one that harms not just yourself but others. The girl simply made an incorrect assessment of the value of her life.
 
 I hope to never see something as traumatic as this, although as Tricia pointed out, it sparked quite an epiphony: what use is knowledge without the human to apply it? Specifically, how important is this programming methodology in context of life and death? My grandmother was run over by a hit-and-run driver; she had no agency over her death. But this girl today did.
 

@@ -13,7 +13,7 @@ In the cases where the corporation must have other social agenda (promoting soci
 
 In other cases, is that attack true? Think back to the bailout days when banks left and right got money (but with strings) from the treasury. In response, the companies clamored to climb back to profitability in order to pay back the treasury and drop any suggestions that they were acting against the interests of the taxpayer.
 
-And just now, after GM is 60% nationalized (Yup, we own 60% of GM now), it announces that it "<a href="http://www.nytimes.com/2009/07/11/business/11auto.html">cannot afford business as usual</a>," implying that it could prior to nationalization.
+And just now, after GM is 60% nationalized (Yup, we own 60% of GM now), it announces that it "[cannot afford business as usual](http://www.nytimes.com/2009/07/11/business/11auto.html)," implying that it could prior to nationalization.
 
 Clearly, it is not always the case that having government backing for some enterprises or industries is the worse way of organizing economic activity, and in many cases it is the better way--for industries that have significant national impact or cannot sustain themselves.
 

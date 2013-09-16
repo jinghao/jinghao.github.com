@@ -8,4 +8,4 @@ As we all know, due to the bad bets on gas-guzzling SUVs and trucks and lack of 
 
 So what do they do?
 
-They desperately <a href="http://www.reuters.com/article/businessNews/idUSTRE49Q6J320081027">beg the already-strapped Treasury</a> for money and assistance to help GM and Chrysler merge.
+They desperately [beg the already-strapped Treasury](http://www.reuters.com/article/businessNews/idUSTRE49Q6J320081027) for money and assistance to help GM and Chrysler merge.

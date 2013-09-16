@@ -8,7 +8,7 @@ categories:
 - intj
 - entj
 ---
-I took the same <a href="http://www.humanmetrics.com/cgi-win/JTypes1.htm">Myer-Briggs personality test</a> as <a href="http://dailycow.org/node/74">I did two years ago</a>. Now I am ENTJ. The breakdown:
+I took the same [Myer-Briggs personality test](http://www.humanmetrics.com/cgi-win/JTypes1.htm) as [I did two years ago](http://dailycow.org/node/74). Now I am ENTJ. The breakdown:
 <ul>
 <li>slightly expressed extrovert (-22% &rarr; <span style="color:red">11%</span>)</li>
 <li>distinctively expressed intuitive personality (88% &rarr; 75%)</li>

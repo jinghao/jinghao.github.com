@@ -4,7 +4,7 @@ title: Emergency Response Time
 created: 1190349272
 categories: []
 ---
-The <a href="http://news.bbc.co.uk/2/hi/asia-pacific/7004059.stm" target="_blank">"super-typhoon" Wipha</a>, "which was predicted to be the worst in a decade", hit "China's densely-populated eastern coast" Yesterday and left five dead from storm-induced landslides. And, despite the storm's immensity, "Shanghai, a city of 17 million people, escaped with little damage and was reported to be returning to normal on Thursday."
+The ["super-typhoon" Wipha](http://news.bbc.co.uk/2/hi/asia-pacific/7004059.stm), "which was predicted to be the worst in a decade", hit "China's densely-populated eastern coast" Yesterday and left five dead from storm-induced landslides. And, despite the storm's immensity, "Shanghai, a city of 17 million people, escaped with little damage and was reported to be returning to normal on Thursday."
 
 Compare that to Katrina--thousands of people died; hundreds of billions of dollars in economic capacity disappeared; hundreds of thousands of homes were wrecked; and crude prices were permanently pushed to record prices.
 

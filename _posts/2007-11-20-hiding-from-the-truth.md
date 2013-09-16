@@ -4,7 +4,7 @@ title: Hiding from the Truth
 created: 1195613443
 categories: []
 ---
-Directly from a <a href="http://www.nytimes.com/2007/11/20/opinion/20tue1.html" rel="external">New York Times Editorial:</a>
+Directly from a [New York Times Editorial:](http://www.nytimes.com/2007/11/20/opinion/20tue1.html)
 <blockquote>The world’s scientists have done their job. Now it’s time for world leaders, starting with President Bush, to do theirs. That is the urgent message at the core of the latest — and the most powerful — report from the Intergovernmental Panel on Climate Change, a group of 2,500 scientists who collectively constitute the world’s most authoritative voice on global warming.
 
 Released in Spain over the weekend, the report leaves no doubt that man-made emissions from the burning of fossil fuels (and, to a lesser extent, deforestation) have been responsible for the steady rise in atmospheric temperatures.

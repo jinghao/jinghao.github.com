@@ -4,7 +4,7 @@ title: World's Third Pandemic
 created: 1191647178
 categories: []
 ---
-According to <a href="http://news.independent.co.uk/health/article3033350.ece" target="_blank">researchers</a>, "the bird flu virus H5N1 has mutated into a form that makes it more infectious to humans, increasing the risk of a human pandemic." The lethal virus emerged in Asia in 2003 during the SARS scare, "leading to the slaughter of hundreds of millions of birds."
+According to [researchers](http://news.independent.co.uk/health/article3033350.ece), "the bird flu virus H5N1 has mutated into a form that makes it more infectious to humans, increasing the risk of a human pandemic." The lethal virus emerged in Asia in 2003 during the SARS scare, "leading to the slaughter of hundreds of millions of birds."
 
 The reason for the increased likelihood of infection is simple: "Humans have a lower body temperature than birds and the avian virus finds it difficult to grow in the cooler conditions of the human throat. The mutated virus is better adapted to these cooler conditions, making transmission more likely."
 

@@ -11,11 +11,11 @@ Bing is marketed as a "decision engine" rather than a search engine--but what do
 
 Let's take a look at few examples:
 <ol>
-<li>Which flight to take: Search <a href="http://www.bing.com/search?q=oakland+to+seattle">Oakland to Seattle</a></li>
-<li>Find reviews, prices and shopping links for the Nikon D40: Search <a href="http://www.bing.com/search?q=Nikon+d40">Nikon D40</a></li>
-<li>Research specs for the Toyota Prius: Search <a href="http://www.bing.com/search?q=prius">Prius</a></li>
-<li>Track your packages or find customer service numbers: Search <a href="http://www.bing.com/search?q=ups">UPS</a> or <a href="http://www.bing.com/search?q=fedex">Fedex</a></li>
-<li>Solve simple equations: Search <a href="http://www.bing.com/search?q=x^2%2B1%3D3">x^2+1=3</a></li>
+<li>Which flight to take: Search [Oakland to Seattle](http://www.bing.com/search?q=oakland+to+seattle)</li>
+<li>Find reviews, prices and shopping links for the Nikon D40: Search [Nikon D40](http://www.bing.com/search?q=Nikon+d40)</li>
+<li>Research specs for the Toyota Prius: Search [Prius](http://www.bing.com/search?q=prius)</li>
+<li>Track your packages or find customer service numbers: Search [UPS](http://www.bing.com/search?q=ups) or [Fedex](http://www.bing.com/search?q=fedex)</li>
+<li>Solve simple equations: Search [x^2+1=3](http://www.bing.com/search?q=x^2%2B1%3D3)</li>
 </ol>
 
 Search itself is a commodity. Research has shown that web surfers can't distinguish between the three major search engines in blind experiments (where people were given no hints of the engine via the formatting, style, or anything of that sort). Even shortcut-features like "define caprice", "5*4*log(3)", "TSL" and "China's Unemployment Rate" come standard with the top search engines.

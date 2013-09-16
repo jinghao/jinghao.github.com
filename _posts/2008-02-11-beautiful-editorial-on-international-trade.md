@@ -4,7 +4,7 @@ title: Beautiful Editorial on International Trade
 created: 1202792470
 categories: []
 ---
-I just thought the following <a href="http://www.nytimes.com/2008/02/10/opinion/10cox.html" rel="external">article ("You Are What You Spend")</a> was intelligently structured: the facts and premises everyone can accept, the discussion, and the final conclusion. I'm afraid that NYT will block public access to the article, so I will quote it here:
+I just thought the following [article ("You Are What You Spend")](http://www.nytimes.com/2008/02/10/opinion/10cox.html) was intelligently structured: the facts and premises everyone can accept, the discussion, and the final conclusion. I'm afraid that NYT will block public access to the article, so I will quote it here:
 <blockquote>With markets swinging widely, the Federal Reserve slashing interest rates and the word “recession” on everybody’s lips, renewed attention is being given to the gap between the haves and have-nots in America. Most of this debate, however, is focused on the wrong measurement of financial well-being. 
 
 It’s true that the share of national income going to the richest 20 percent of households rose from 43.6 percent in 1975 to 49.6 percent in 2006, the most recent year for which the Bureau of Labor Statistics has complete data. Meanwhile, families in the lowest fifth saw their piece of the pie fall from 4.3 percent to 3.3 percent. 

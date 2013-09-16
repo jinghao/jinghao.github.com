@@ -4,7 +4,7 @@ title: Recession--Probable
 created: 1225253464
 categories: []
 ---
-A year ago I <a href="http://dailycow.org/node/96">argued</a> that recession in the United States (at least by the technical definition of two consecutive quarters of economic contraction) was not likely given the macroeconomic figures being published. But I made that prediction based on my anticipation of strong export-led economic growth.
+A year ago I [argued](http://dailycow.org/node/96) that recession in the United States (at least by the technical definition of two consecutive quarters of economic contraction) was not likely given the macroeconomic figures being published. But I made that prediction based on my anticipation of strong export-led economic growth.
 
 Yet things have changed, specifically in the currency markets, international financial markets, economic growth abroad, and socio-demographic changes worldwide, and like the exceptional economist that I pretend to be, I am compelled to revise my original assessment:
 <ol>

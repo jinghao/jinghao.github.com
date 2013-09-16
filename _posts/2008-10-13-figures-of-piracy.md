@@ -4,7 +4,7 @@ title: Figures of Piracy
 created: 1223945819
 categories: []
 ---
-The U.S. Chamber of Commerce <a href="http://www.reuters.com/article/technologyNews/idUSTRE49C7EI20081013">estimates</a> that "piracy costs the United States nearly $250 billion annually." Let's do some math on this.
+The U.S. Chamber of Commerce [estimates](http://www.reuters.com/article/technologyNews/idUSTRE49C7EI20081013) that "piracy costs the United States nearly $250 billion annually." Let's do some math on this.
 
 How much do we really pirate? 250 billion dollars annually divided into 80 million American households yields 3125 dollars a year of piracy. Does the average American household pirate over 3000 dollars of stuff a year? Put another way, are there things that you currently pirate that you would pay the full price for if piracy were not an option--that sum up to a value of over 3000 dollars?
 

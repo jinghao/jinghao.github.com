@@ -4,7 +4,7 @@ title: The Virtues of Marriages
 created: 1196816329
 categories: []
 ---
-Marriage is good because <a href="http://www.abcnews.go.com/GMA/WaterCooler/story?id=3951160" rel="external">the ring can save you from a gunshot</a> and because it is <a href="http://www.sciencedaily.com/releases/2007/12/071203190625.htm" rel="external">green.</a> That's right, ladies and gentlemen--share beds and bedrooms to help the world and you.
+Marriage is good because [the ring can save you from a gunshot](http://www.abcnews.go.com/GMA/WaterCooler/story?id=3951160) and because it is [green.](http://www.sciencedaily.com/releases/2007/12/071203190625.htm) That's right, ladies and gentlemen--share beds and bedrooms to help the world and you.
 
 It might be a good conversation-starter too:
 <strong>You</strong>: "Do you believe in preventing or reversing global warming?"

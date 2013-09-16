@@ -4,7 +4,7 @@ title: Office Depot Still Gets Business?
 created: 1215492085
 categories: []
 ---
-Today I attempted vainly to buy an <a href="http://www1.officedepot.com/catalog/catalogSku.do?id=399305" rel="external">external HD</a> from Office Depot for an hour and half. Because Office Depot's website crashed Firefox 10 consecutive times (and Firefox has never crashed on Ubuntu for me), I switched to Opera. But the whole process was fruitless.
+Today I attempted vainly to buy an [external HD](http://www1.officedepot.com/catalog/catalogSku.do?id=399305) from Office Depot for an hour and half. Because Office Depot's website crashed Firefox 10 consecutive times (and Firefox has never crashed on Ubuntu for me), I switched to Opera. But the whole process was fruitless.
 
 The deal sounds good, doesn't it? Buy a small external hot-swappable hard drive for under 60 bucks and get free shipping. So I typed "1" into the quantity box and clicked add to cart. I was confronted with the page asking for my zip code so I typed in the zip code I wanted OD to ship to (94709, Berkeley), but it said "THIS ITEM IS NOT AVAILABLE AT YOUR LOCATION."
 

@@ -35,7 +35,7 @@ By making oil significantly more expensive, the government would make alternativ
 
 <h3>Covering the Budget Gap</h3>
 
-The United States <a href="http://www.eia.doe.gov/basics/quickoil.html">consumed</a> 21 million barrels of oil a day in 2006 (probably more now), which is 7.6 billion barrels a year. A 200% tax will probably force the price down below 100 dollars a barrel, but even at that rate, there will be over 1.5 trillion dollars per year in extra revenue (practically a bit less because the higher price should cause consumption to drop, but not significantly less because energy is an inelastic good). All that money can be extremely useful in these times; the government can use it to:
+The United States [consumed](http://www.eia.doe.gov/basics/quickoil.html) 21 million barrels of oil a day in 2006 (probably more now), which is 7.6 billion barrels a year. A 200% tax will probably force the price down below 100 dollars a barrel, but even at that rate, there will be over 1.5 trillion dollars per year in extra revenue (practically a bit less because the higher price should cause consumption to drop, but not significantly less because energy is an inelastic good). All that money can be extremely useful in these times; the government can use it to:
 <ol>
 <li>Pay back our mounting debt, which will increase national savings, which will boost exports and investment</li>
 <li>Subsidize and expand public transportation: those who would be unable to afford the higher-priced gasoline would need alternative means of transportation. Build subways in Los Angeles, San Francisco, every densely populated region; increase bus access; expand light and high-speed rail</li>

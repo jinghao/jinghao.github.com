@@ -12,4 +12,4 @@ Perhaps it's a tool that enables us to become the most adaptive inhabitants on t
 
 I don't know, but it's good to have clothes. Yay, summer-heat. Yay, winter-snow (well, not really).
 
-As we can see, the development of clothing and other forms of artificial protection was purely prudential. So, why do <a href="http://www.informationweek.com/news/showArticle.jhtml?articleID=202401630" target="_blank">people care about clothing-penetrating security scans that completely anonymize the person being scanned?</a>
+As we can see, the development of clothing and other forms of artificial protection was purely prudential. So, why do [people care about clothing-penetrating security scans that completely anonymize the person being scanned?](http://www.informationweek.com/news/showArticle.jhtml?articleID=202401630)

@@ -4,7 +4,7 @@ title: 'Milking It For What It''s Worth:  Taiwan Ruling Party Asserts Separatist
 created: 1191172423
 categories: []
 ---
-So Taiwan decided to assert their independence again, by passing a motion to declare themselves separated from China.  Okay, so I can take that.  Here's what bothers me, according to the <a href="http://news.yahoo.com/s/ap/20070930/ap_on_re_as/taiwan_politics">AP on Yahoo! News</a>:
+So Taiwan decided to assert their independence again, by passing a motion to declare themselves separated from China.  Okay, so I can take that.  Here's what bothers me, according to the [AP on Yahoo! News](http://news.yahoo.com/s/ap/20070930/ap_on_re_as/taiwan_politics):
 
 <blockquote>In other moves to assert its separateness from China in recent months, Taiwanese officials have announced plans to revise school textbooks to drop references that recognize Chinese historical figures, places and artifacts as "national" and said they were considering abandoning Taiwan's long-standing policy of recognizing Mandarin Chinese as the island's only official language.</blockquote>
 

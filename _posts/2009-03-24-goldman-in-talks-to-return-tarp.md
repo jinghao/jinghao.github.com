@@ -7,4 +7,4 @@ categories:
 - finance
 - economy
 ---
-Goldman Sachs’s CFO said that running the company without government money “<a href="http://www.bloomberg.com/apps/news?pid=20601087&sid=aW2jw0bHcg3s&refer=home">would be an easier thing to do</a>,” by which he means "I want my bonuses, dammit!" (Keep in mind Goldman Sachs set a Wall Street record for pay last year)
+Goldman Sachs’s CFO said that running the company without government money “[would be an easier thing to do](http://www.bloomberg.com/apps/news?pid=20601087&sid=aW2jw0bHcg3s&refer=home),” by which he means "I want my bonuses, dammit!" (Keep in mind Goldman Sachs set a Wall Street record for pay last year)

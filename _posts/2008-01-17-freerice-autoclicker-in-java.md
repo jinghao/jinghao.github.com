@@ -4,7 +4,7 @@ title: FreeRice AutoClicker, in Java!
 created: 1200640891
 categories: []
 ---
-Over the break, among other things, I learned (through practice) the fundamentals of Java (For everything else, I just use Google) and as my first project in this language, I wrote a (client-side) Java application for my <a href="http://dailycow.org/node/165">FreeRice AutoClicker 1.4</a> (for those who don't remember).
+Over the break, among other things, I learned (through practice) the fundamentals of Java (For everything else, I just use Google) and as my first project in this language, I wrote a (client-side) Java application for my [FreeRice AutoClicker 1.4](http://dailycow.org/node/165) (for those who don't remember).
 
 <h3>What's different about this application?</h3>
 

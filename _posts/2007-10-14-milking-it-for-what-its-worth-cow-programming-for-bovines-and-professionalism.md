@@ -4,7 +4,7 @@ title: 'Milking It For What It''s Worth:  COW - Programming for Bovines and Prof
 created: 1192382045
 categories: []
 ---
-Google, is amazing.  I found <a href="http://www.bigzaphod.org/cow/">this</a> website on COW, a programming language that has been around since 2003.  It seems like a parody, more than anything else.  I found this on their website, describing what it is.
+Google, is amazing.  I found [this](http://www.bigzaphod.org/cow/) website on COW, a programming language that has been around since 2003.  It seems like a parody, more than anything else.  I found this on their website, describing what it is.
 
 <blockquote>The COW programming language was designed with the bovine in mind. Given that cows have somewhat limited vocabulary skills, it seemed natural to incorporate only the words they know into the language. As a result, all instructions are some variation on "moo" which just so happens to be the only word they really understand. </blockquote>
 

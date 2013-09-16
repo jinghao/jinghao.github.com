@@ -8,12 +8,12 @@ categories:
 - presidential election
 - intrade
 ---
-For those of you who are not familiar with the website, it is a futures platform for predictions like elections. The idea is that through trade, the prices approximate the public's consensus on the approximate likelihood of something happening, like <a href="http://intrade.com/v4/markets/contract/?contractId=748151">Trump winning the 2012 election</a>.
+For those of you who are not familiar with the website, it is a futures platform for predictions like elections. The idea is that through trade, the prices approximate the public's consensus on the approximate likelihood of something happening, like [Trump winning the 2012 election](http://intrade.com/v4/markets/contract/?contractId=748151).
 
 Here are some consensus estimates for the 2012 Presidential election:
 <ul>
-<li>President Obama has a <a href="http://intrade.com/v4/markets/contract/?contractId=743474">59.7% chance of being elected</a>, suggesting the highest probability for a Republican win is 40.3%.</li>
-<li>Donald Trump has a <a href="http://intrade.com/v4/markets/contract/?contractId=741970">8.5% chance of becoming the Republican nominee</a>, and a 5.7% chance of becoming elected. That means (through Bayes rule), if Donald Trump were nominated, Trump has a 67% chance of being elected.</li>
+<li>President Obama has a [59.7% chance of being elected](http://intrade.com/v4/markets/contract/?contractId=743474), suggesting the highest probability for a Republican win is 40.3%.</li>
+<li>Donald Trump has a [8.5% chance of becoming the Republican nominee](http://intrade.com/v4/markets/contract/?contractId=741970), and a 5.7% chance of becoming elected. That means (through Bayes rule), if Donald Trump were nominated, Trump has a 67% chance of being elected.</li>
 </ul>
 The second fact reveals an interesting fact about the beliefs of people on Intrade. Somehow they believe that Trump has a good chance of winning if he were nominated. That encouraged me to research further to compose the following table:
 
@@ -35,7 +35,7 @@ Interestingly, we see that the implicit belief is that among the Republican cand
 
 If the GOP just wanted a GOP in the White House, it would try to pick the candidate with the highest posterior probability. Yet those candidates also have relatively low prior probability, suggesting that the GOP is not doing that (or the Intrade beliefs are wrong). What do you think?
 
-Another interesting fact that surfaced was that the sum of <a href="http://intrade.com/v4/markets/?eventId=84326">each individual candidate winning totals to 100.6%</a>, suggesting that there's an arbitrage opportunity. To exploit the arbitrage opportunity, you short $x of all of the candidates and invest that money somewhere else (Say, treasuries). As a result, you will gain 0.006x + returns from the treasuries (say, 2% on x for 1.5 years of investment) for sure, assuming your transactions do not meaningfully impact the price of the "shares".
+Another interesting fact that surfaced was that the sum of [each individual candidate winning totals to 100.6%](http://intrade.com/v4/markets/?eventId=84326), suggesting that there's an arbitrage opportunity. To exploit the arbitrage opportunity, you short $x of all of the candidates and invest that money somewhere else (Say, treasuries). As a result, you will gain 0.006x + returns from the treasuries (say, 2% on x for 1.5 years of investment) for sure, assuming your transactions do not meaningfully impact the price of the "shares".
 
 Has anyone dabbled with Intrade? What do people think of these estimates? Are they pretty good, or do you think there is profit potential from statistical arbitrage?
 

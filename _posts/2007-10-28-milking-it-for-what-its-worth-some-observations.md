@@ -6,7 +6,7 @@ categories: []
 ---
 It never ceases to amaze me how horrible some people can even be when it comes to debating or discussing.  Truly, it's saddening that people can toss out lines and lines of ad hominems but never really be able to get their point across.
 
-Case in point:  Read what <a href="http://scu.facebook.com/note.php?note_id=12746620262#comments">Jonas Aleksandras Pauliukonis</a> has to say.  It's not so much that he's a Republican (I don't care), but more of the fact that he makes blatant assumptions about people.
+Case in point:  Read what [Jonas Aleksandras Pauliukonis](http://scu.facebook.com/note.php?note_id=12746620262#comments) has to say.  It's not so much that he's a Republican (I don't care), but more of the fact that he makes blatant assumptions about people.
 
 The text comments (Jonas is a bit more below, but you have to read the entire text to get it):
 

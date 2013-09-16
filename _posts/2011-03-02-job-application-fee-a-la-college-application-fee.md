@@ -9,9 +9,9 @@ categories:
 ---
 Remember when you had to pay $85 to apply to each college? It allowed them to pay people to pore over every application, to distinguish between seemingly-indistinguishable applicants, to select the few who would best excel in their institution.
 
-Companies like Google, which received <a href="http://www.thestreet.com/story/10997084/1/google-gets-record-number-of-job-applications.html">75,000 applications in a week</a> (~4 million a year) don't have the luxury of doing that and thus must resort to crude filters such as GPA, major (that often must match exactly with what they're looking for), or other keywords (such as Scala, Ruby on Rails, or Facebook). This leads to keyword-stuffing by applicants, and imprecise and inaccurate filtering by employers. The end result is a concoction of false information and disappointed job seekers.
+Companies like Google, which received [75,000 applications in a week](http://www.thestreet.com/story/10997084/1/google-gets-record-number-of-job-applications.html) (~4 million a year) don't have the luxury of doing that and thus must resort to crude filters such as GPA, major (that often must match exactly with what they're looking for), or other keywords (such as Scala, Ruby on Rails, or Facebook). This leads to keyword-stuffing by applicants, and imprecise and inaccurate filtering by employers. The end result is a concoction of false information and disappointed job seekers.
 
-Google intends to hire 0.15% of those applicants. Even the most selective colleges accept around <a href="http://www.thecrimson.harvard.edu/article/2010/3/31/financial-aid-percent-students/">7%</a> and <a href="http://ivysuccess.com/princeton_2010.html">10%</a> of their total applicants. The reason is simple: There is an entry fee to applying to Harvard or Princeton, and as a result, fewer people even submit applications.
+Google intends to hire 0.15% of those applicants. Even the most selective colleges accept around [7%](http://www.thecrimson.harvard.edu/article/2010/3/31/financial-aid-percent-students/) and [10%](http://ivysuccess.com/princeton_2010.html) of their total applicants. The reason is simple: There is an entry fee to applying to Harvard or Princeton, and as a result, fewer people even submit applications.
 
 <h3>Recommendation</h3>
 

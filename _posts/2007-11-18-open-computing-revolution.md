@@ -4,7 +4,7 @@ title: Open-Computing Revolution
 created: 1195420537
 categories: []
 ---
-For those of you on Facebook, please join my recently-created (global) <a href="http://berkeley.facebook.com/group.php?gid=6571294071" rel="external">group</a> advocating for increased adoption of open-source (GNU)Linux thought universal distribution by all PC vendors. Here's my pitch:
+For those of you on Facebook, please join my recently-created (global) [group](http://berkeley.facebook.com/group.php?gid=6571294071) advocating for increased adoption of open-source (GNU)Linux thought universal distribution by all PC vendors. Here's my pitch:
 
 Dell did it. HP, Lenovo, Sony, Acer (etc) can all do the same. All PC vendors should offer Ubuntu (or Fedora, if you prefer) as a viable alternative (pre-configured hardware support) to Windows and accompany those offerings with sizable discounts (50 dollars) to their Windows counterparts.
 
@@ -18,4 +18,4 @@ The main beef people have with Linux is its purported lack of hardware support (
 </ol>
 The time of open-source computing has arrived. So who's with me?
 
-Useful links: <a href="http://www.ubuntu.com/getubuntu/download" rel="external">Download Ubuntu</a> &middot; <a href="https://shipit.ubuntu.com/" rel="external">Get free CDs mailed to you</a> &middot; <a href="http://fedoraproject.org/get-fedora" rel="external">Get Fedora</a> &middot; <a href="http://berkeley.facebook.com/group.php?gid=6571294071" rel="external">Group</a>
+Useful links: [Download Ubuntu](http://www.ubuntu.com/getubuntu/download) &middot; [Get free CDs mailed to you](https://shipit.ubuntu.com/) &middot; [Get Fedora](http://fedoraproject.org/get-fedora) &middot; [Group](http://berkeley.facebook.com/group.php?gid=6571294071)

@@ -7,4 +7,4 @@ categories:
 - funny
 - ad
 ---
-Remember <a href="http://dailycow.org/node/422">Blackbird</a>? Now there's a <a href="http://www.blackcareers.com/">website</a> for black people to find black jobs for black people! Why do they need their own website anyway? There's no asiancareers.com.
+Remember [Blackbird](http://dailycow.org/node/422)? Now there's a [website](http://www.blackcareers.com/) for black people to find black jobs for black people! Why do they need their own website anyway? There's no asiancareers.com.

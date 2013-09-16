@@ -4,7 +4,7 @@ title: Flag Rules
 created: 1215462536
 categories: []
 ---
-According to <a href="http://www.usa-flag-site.org/etiquette.shtml">this flag etiquette site</a>, 
+According to [this flag etiquette site](http://www.usa-flag-site.org/etiquette.shtml), 
 
 <blockquote>
 The flag should never be used for any advertising purpose. It should not be embroidered, printed or otherwise impressed on such articles as cushions, handkerchiefs, napkins, boxes, or anything intended to be discarded after temporary use. Advertising signs should not be attached to the staff or [hall yard].</blockquote>

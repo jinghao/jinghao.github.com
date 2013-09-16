@@ -15,6 +15,6 @@ In essence, for the assignment I need to come up with the following and write it
 
 The only difference between the two mothers is race. One's black and one is white. Everything else is a consequence of it: in the 1940s-1950s America, being black meant limited career opportunities. But I can't explain why they're different just because of their difference in race.
 
-I might as well write an essay about how this is impossible given the dependent nature of everything but what each character is born with. The <a href="http://dailycow.org/node/145">state of the entire universe at any particular instant is a function of the immediately-preceding state</a>, and in a similar way, the circumstances of the characters are a direct result of how they began.
+I might as well write an essay about how this is impossible given the dependent nature of everything but what each character is born with. The [state of the entire universe at any particular instant is a function of the immediately-preceding state](http://dailycow.org/node/145), and in a similar way, the circumstances of the characters are a direct result of how they began.
 
 This doesn't make sense. Help me. This is why I'm an Engineer, so I can actually solve and prove things that can be solved and proven.

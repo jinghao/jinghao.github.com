@@ -7,7 +7,7 @@ categories:
 ---
 <p>One of the most annoying things about Woot.com is that it doesn't list the prices of past items, even during Woot-offs, so you can't regret not staying up till four to buy that $10 RC copter. Often, there will be Woot-bots that post the item's price on Woot's discussion boards, but sometimes when Woots appear in quick successions, the bots miss the price.</p>
 
-<p>So, I made the following script to simplify our price-finding task. It works for all past Woots (for current ones, just go to woot.com). Paste the link to the blog or discussion page of the corresponding item, and the script will tell you its price (Click <a href="/woot">read more</a> for the form). Disclaimer: Accuracy not guaranteed.</p>
+<p>So, I made the following script to simplify our price-finding task. It works for all past Woots (for current ones, just go to woot.com). Paste the link to the blog or discussion page of the corresponding item, and the script will tell you its price (Click [read more](/woot) for the form). Disclaimer: Accuracy not guaranteed.</p>
 
 <?php
 function file_get_contents_external($file_url, $callback = false) {
@@ -102,4 +102,4 @@ google_ad_height = 60;
 <script type="text/javascript"
 src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script><form action="woot" method="post"><p><input size="40" type="text" name="wooturl" value="<?php echo $_POST['wooturl'] ?>" /><input type="submit" value="Calculate!" /></p></form>
-<p>If you liked this script, don't forget to go <a href="http://digg.com/software/Woot_com_Price_Finder" rel="external">here</a> to Digg this!</p>
+<p>If you liked this script, don't forget to go [here](http://digg.com/software/Woot_com_Price_Finder) to Digg this!</p>

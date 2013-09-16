@@ -4,7 +4,7 @@ title: The World Is Never Short of Strange People
 created: 1221891734
 categories: []
 ---
-From Saturday's <a href="http://www.uexpress.com/dearabby/">Dear Abby</a> column:
+From Saturday's [Dear Abby](http://www.uexpress.com/dearabby/) column:
 <blockquote>DEAR ABBY: I'm 39 and a college graduate with plenty of common sense. I'm not stupid, yet throughout my life I have had trouble differentiating between left and right, east and west. Any explanation? -- LOST IN PENNSYLVANIA</blockquote>
 Abby kindly responds:
 <blockquote>Fortunately for you, cell phones can be outfitted with GPS devices to help you find your way. And as to your difficulty differentiating between left and right, hold both hands in front of you with palms out and thumbs touching. Notice how the angle of your left hand forms an "L"? I hope this solves your problem.</blockquote>

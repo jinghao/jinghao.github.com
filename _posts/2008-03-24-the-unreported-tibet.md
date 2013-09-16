@@ -4,7 +4,7 @@ title: The Unreported Tibet
 created: 1206383282
 categories: []
 ---
-Finally a report that focused on what really happened in Tibet, not what the West expected to happen there. From the <a href="http://www.nytimes.com/2008/03/24/world/asia/24tibet.html" rel="external">New York Times</a>:
+Finally a report that focused on what really happened in Tibet, not what the West expected to happen there. From the [New York Times](http://www.nytimes.com/2008/03/24/world/asia/24tibet.html):
 <blockquote><strong>In the chaotic hours after Lhasa erupted March 14, Tibetans rampaged through the city’s old quarter, waving steel scabbards and burning or looting Chinese shops. Clothes, souvenirs and other tourist trinkets were dumped outside and set afire as thick gray smoke darkened the midday sky. Tibetan fury, uncorked, boiled over.</strong>
 
 Foreigners and Lhasa residents who witnessed the violence were stunned by what they saw, and by what they did not see: the police. Riot police officers fled after an initial skirmish and then were often nowhere to be found. Some Chinese shopkeepers begged for protection.
