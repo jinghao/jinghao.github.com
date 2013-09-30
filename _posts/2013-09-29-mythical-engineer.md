@@ -17,6 +17,6 @@ The author further suggests some destructive consequences of perpetuating this m
 
 > In the individual’s desire to live up to the “10x” mythology, or the culture’s expectations that individuals be extreme performers, workers may succumb to a variety of destructive tendencies including drug use, workaholism, heroism and alcoholism.
 
-But that need not be the case. Instead of chasing an unrealistic myth, if one realizes the breadth of means of creating value, he can reach for a healthier, more constructive state. 10x engineers don't seek to fill out some template from a myth. They assess where their true value is, and use that to help their team succeed.
+But that need not be the case. Instead of chasing an unrealistic myth, if one realizes the breadth of means of creating value, he can reach for a healthier, more constructive state. 10x engineers don't seek to fill out some template from a myth. They aren't defined by a percentile on an one-dimensional scale. There isn't a curve.
 
 10x engineers are out there. Look beyond just their code, and maybe you will have an opportunity to work with and learn from one. 
