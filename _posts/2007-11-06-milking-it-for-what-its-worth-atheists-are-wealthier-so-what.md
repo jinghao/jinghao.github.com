@@ -3,6 +3,7 @@ layout: post
 title: 'Milking It For What It''s Worth:  Atheists Are Wealthier?  So What?'
 created: 1194337421
 categories: atheism wealth religion
+author: Albert
 ---
 So, atheists are wealthier?  Tell that to any person who has a well-balanced faith, and they'll tell you that means absolutely nothing to them.
 
