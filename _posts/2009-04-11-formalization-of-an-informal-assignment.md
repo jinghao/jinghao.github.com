@@ -5,7 +5,9 @@ created: 1239498090
 categories: school
 ---
 I have to write a six page paper by Monday to answer the following prompt:
-<blockquote>The film Imitation of Life takes place between 1947 and 1959 in and around New York City, following the lives of two single mothers. Each mother has a very different relationship to money, work, and family. Write an essay that attempts to account for why these characters are so different. Be careful to avoid simple compare-contrast arguments. Instead, focus on the meanings behind those differences, paying particularly close attention to their relationships to money, work, and family. As with the above prompt, since at least part of this prompt is historical and/or sociological in nature, use one historical, sociological, or critical source to assist you in your argument.</blockquote>
+
+> The film Imitation of Life takes place between 1947 and 1959 in and around New York City, following the lives of two single mothers. Each mother has a very different relationship to money, work, and family. Write an essay that attempts to account for why these characters are so different. Be careful to avoid simple compare-contrast arguments. Instead, focus on the meanings behind those differences, paying particularly close attention to their relationships to money, work, and family. As with the above prompt, since at least part of this prompt is historical and/or sociological in nature, use one historical, sociological, or critical source to assist you in your argument.
+
 What does it mean to answer WHY one character differs from another? Wouldn't it be rather presumptuous of me to assign arbitrary causes for why one woman is the way she is; while the other is another way? Also, am I attempting to decide why the characters are different in the movie by pretending that it were real (and hence they had unique and physical histories), or infer why the film director made them different in the way they are different?
 
 How would you like it if I gave a 10 minute speech on why you are different from me, assigning reasons where there are none?
