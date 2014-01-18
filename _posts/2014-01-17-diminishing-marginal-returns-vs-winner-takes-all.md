@@ -11,7 +11,7 @@ The income difference between the best engineers and the average engineers is cl
 
 What went wrong?
 
-Executives and artists are disciplined and measured by the markets. The CEO is responsible for the P&L; the artist is responsible for her sales. It's clear when one artist is better than another--just look at their sales.
+_Executives and artists are disciplined and measured by the markets_. The CEO is responsible for the P&L; the artist is responsible for her sales. It's clear when one artist is better than another--just look at their sales.
 
 For the most part, engineers and doctors aren't subject to the discipline of the market because quality is hard to measure. The top engineer's investment in quality (particularly those that don't have immediate product impact) pay dividends over a long period of time and is difficult to attribute to his effort--if you've ever been thrown into a dungeon of legacy code, you'll understand what the opposite is. In the short run, working twice as hard to produce work that's higher quality may result in another 5-10% on his bonus, hardly proportional. 
 
