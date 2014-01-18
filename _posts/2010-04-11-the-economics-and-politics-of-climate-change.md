@@ -4,7 +4,7 @@ title: The Economics and Politics of Climate Change
 created: 1271022054
 categories: environment economics climate
 ---
-Here is an excerpt from a <a href="http://www.nytimes.com/2010/04/11/magazine/11Economy-t.html">superb article by Paul Krugman</a>, highlighting the hypocrisy and misinformation of the critics:
+Here is an excerpt from a [superb article by Paul Krugman](http://www.nytimes.com/2010/04/11/magazine/11Economy-t.html), highlighting the hypocrisy and misinformation of the critics:
 
 > What you hear from conservative opponents of a climate-change policy, however, is that any attempt to limit emissions would be economically devastating. The Heritage Foundation, for one, responded to Budget Office estimates on Waxman-Markey with a broadside titled, “C.B.O. Grossly Underestimates Costs of Cap and Trade.” The real effects, the foundation said, would be ruinous for families and job creation.
 

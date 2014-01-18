@@ -4,7 +4,7 @@ title: Abuse of the Monopoly Power to Force Transfer of Wealth
 created: 1242797542
 categories: monopoly economics school politics
 ---
-Last week, I discussed the <a href="http://dailycow.org/node/511">immense leverage the higher education systems have with regards to pricing</a>. This week I will cover how UC Berkeley is abusing its monopoly power.
+Last week, I discussed the [immense leverage the higher education systems have with regards to pricing](http://dailycow.org/node/511). This week I will cover how UC Berkeley is abusing its monopoly power.
 
 The average student has suffered through years of cumulative tuition increases (9-10% annually), cutbacks in services, elimination of necessary classes, and escalation of living fees (food and residence). For example, I have a class that I absolutely need to take before graduation, and I signed up for it in the earliest time possible (sacrificing the slot that could've been used for another class) only to see it get cancelled without a single notice; now every substitute for that class is either completely full (including the waiting list) OR conflicts with my schedules. The cause of the cancellation? Budget. Stupid reason, because this is a mandatory class and cancelling it for one semester will only mean that there must be more the next semester.
 

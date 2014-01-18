@@ -4,7 +4,7 @@ title: The Return of Hubris to Germany
 created: 1281810584
 categories: economy germany
 ---
-The NYT ran an <a href="http://www.nytimes.com/2010/08/14/world/europe/14germany.html">article</a> testifying to Germany's successes in managing the downturn, and their consequent pride in getting the "right economic model".
+The NYT ran an [article](http://www.nytimes.com/2010/08/14/world/europe/14germany.html) testifying to Germany's successes in managing the downturn, and their consequent pride in getting the "right economic model".
 
 Of course, there are benefits to their "short work" program of reducing workers' hours instead of letting go of workers entirely--mainly that the workers' skills do not wither away. But fiscal austerity--the main economic model being touted--is the wrong reason to attribute Germany's relative success to.
 

@@ -12,7 +12,7 @@ A driver update lets you sacrifice random read performance for random-write perf
 
 I don't think so. I don't dispute that 64 GB flash memory with high random-write performance is not affordable, but a 256 MB-1 GB high-performance cache definitely is.
 
-Why not attach one of those to a SSD? All operations are done through the cache, which will function in an <a href="http://en.wikipedia.org/wiki/Cache_algorithms#Least_Recently_Used">LRU manner</a>. The difference is that writes will function asynchronously. As with caching schemes in general, this doesn't increase throughput, but this does definitely improve latency. Instead of taking a quarter second to write a 4 KB file, now all writes will appear instantaneous--as long as you are not writing separate 4 KB files continuously.
+Why not attach one of those to a SSD? All operations are done through the cache, which will function in an [LRU manner](http://en.wikipedia.org/wiki/Cache_algorithms#Least_Recently_Used). The difference is that writes will function asynchronously. As with caching schemes in general, this doesn't increase throughput, but this does definitely improve latency. Instead of taking a quarter second to write a 4 KB file, now all writes will appear instantaneous--as long as you are not writing separate 4 KB files continuously.
 
 This will add an additional 2-5 dollars to the cost of your drive but improve perceived performance significantly. Caching has been used to allow CPU clock speed to increase exponentially while memory speed essentially remained stagnated. It can also allow affordable SSDs to perform as desired.
 
