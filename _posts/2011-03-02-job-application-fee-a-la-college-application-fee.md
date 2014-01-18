@@ -10,17 +10,17 @@ Companies like Google, which received <a href="http://www.thestreet.com/story/10
 
 Google intends to hire 0.15% of those applicants. Even the most selective colleges accept around <a href="http://www.thecrimson.harvard.edu/article/2010/3/31/financial-aid-percent-students/">7%</a> and <a href="http://ivysuccess.com/princeton_2010.html">10%</a> of their total applicants. The reason is simple: There is an entry fee to applying to Harvard or Princeton, and as a result, fewer people even submit applications.
 
-<h3>Recommendation</h3>
+### Recommendation ###
 
 Google should decide on an acceptance goal: Say, 4% of applicants. In order to achieve that goal, it could introduce a (small) application fee--say, $25-$100--whatever corresponds to the point at which it receives only 250,000 applications per year. Reducing total applications from over 4 million to 250,000 will allow the recruiting team to be selective on many more dimensions, and hence pick better candidates. In addition to saving lots of recruiting resources, it will also produce anywhere between $6.3 million and $25 million dollars in application revenues.
 
 The optimal thing to do with those revenues would be to return them to successful applicants: Say, 4% of the 250,000 applicants get job offers and 60% of them accept the job. Then they can get anywhere between $1041 and $4166 in "bonus bonus" (i.e. bonus on top of the sign-on bonus) to keep the program revenue-neutral.
 
-<h3>Consequences</h3>
+### Consequences ###
 
 The end result is that many of the current 4 million applicants that knew they had little chance would put their resources somewhere else, saving lots of Google's time and resources, and allowing Google to be more detailed about its hiring selection process. In contrast, the 250,000 most confident applicants would apply. Therefore, this system would produce the exact opposite of the adverse-selection problem--candidates will basically select themselves. Any rational person (one who chooses actions that maximize expected payoffs) with sufficient capital would conclude that it is profitable to spend $100 for a 5-10% chance at $4166. Similarly, he would conclude it is unprofitable to spend $100 for less than 4% chance at $4166. Therefore, of the population of all rational people interested in the job, exactly those who are sufficiently confident would apply.
 
-<h3>Potential Problems</h3>
+### Potential Problems ###
 <ul>
 <li>This would only work for companies that are highly desirable to work at (Google's still one of them, despite my decision to go to Facebook instead) that currently receive a lot more applications than they can process.</li>
 <li>Applicants generally must have a well-calibrated confidence level (and some Bayesian math). Perhaps the most confident (or interested) applicants are also most likely to be problematic. Or perhaps the applicants are those who absolutely have no choice (unemployed with little recent experience) but to apply to as many places as possible, and consequently do not rationalize their expected gain from applying.</li>
@@ -28,7 +28,7 @@ The end result is that many of the current 4 million applicants that knew they h
 <li>People may be unwilling to part with the application fee if they have little money, even if they are very confident of their competence, because people become very risk-averse at low income levels: A certain $100 loss may not be worth the 10% chance at $4000 for someone who lives paycheck to paycheck. For these people perhaps a different hurdle could be presented: For example, Facebook, Dropbox and Quora have programming puzzles for candidates. Successfully competing a hard challenge is a strong signal for the candidate and may act as a substitute for the fee.</li>
 </ul>
 
-<h3>Conclusion</h3>
+### Conclusion ###
 
 I suggested a mechanism that appears efficient and effective in theory but may run into potential problems in the implementation. The goal was to mitigate the information asymmetry in employment applications and to reduce the load on recruiting so that they can be more effective at filtering among those who show sufficient confidence or interest.
 

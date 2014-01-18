@@ -8,13 +8,13 @@ The economist's objection to monopolies is that they are not socially efficient-
 
 So what if we made monopolies--sole (or close to sole) suppliers of certain markets--produce at that socially optimal level? Then it would be great! We would have the scale efficiency of monopolies and none of the deficiencies of market power. The curious thing is, it already exists.
 
-<h3>Example: Higher Education</h3>
+### Example: Higher Education ###
 
 The higher education system is exactly that. The school--the monopolist--can almost perfectly discriminate among its "customers". It can charge a high "base" fee, and based on ability to pay, offer "financial aid". It can do that almost perfectly because each student who wants financial aid is required to submit an entire financial disclosure of his family's assets, earnings, liabilities, etc. The university then has everything it can reasonably obtain to determine the highest price that the student (or his family) can "afford" and is willing to pay. That is perfect monopolistic exploitation.
 
 In this case, the monopolist (the university) captures the entire social surplus that other forms of monopoly miss out on. It can do so because it can offer its services to poorer students for a much lower cost than its general offering without adversely affecting the price it can charge more affluent students.
 
-<h3>Berkeley's Fee Increases</h3>
+### Berkeley's Fee Increases ###
 
 Berkeley for instance recently announced another 9-10% fee increase--on top of the double-digit fee consecutive fee increases in the past several years--but it assured its students that the financially needy will still receive assistance via FAFSA (and perhaps other programs). Essentially, it is raising the cost to the middle class to subsidize the cost to the poor. In doing so, it diminishes the dollar's value to the middle class relative to that to the working class. The fact that 0 dollars buys the same education for the poor as 10,000 dollars for the affluent completely redefines what it means to be poor. (The fact that FAFSA does not consider regional cost-of-living as a factor in determining the ability to pay is also inefficient)
 
