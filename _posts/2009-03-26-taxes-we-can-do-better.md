@@ -23,13 +23,13 @@ Clearly we are encouraged to game the system and the market doesn't accurately r
 First off, the land tax. It will be a flat annuity of 4 cents per square feet of land you own. If you own a house on a 6000 square feet lot, you pay $240/year of land tax. If you own a gigantic casino on 10 acres of land, you pay $17424/year of land tax. If you own a 100 acre plot of land for growing corn, I suggest you do something else because this government won't be paying you subsidies to leave land idle.
 
 How is this better than an income tax?
-<ol>
-<li>The supply curve of land is virtually vertical. Therefore, raising the tax will have a negligible effect on the amount of land available. This has been the principle argument used by economists in favor of a land tax</li>
-<li>This will discourage the ownership of idle land. Since the owners are paying the money no matter what they do with the land, people will be less inclined to squat on land and leave it unproductive. Therefore, land speculation for underdeveloped regions will be minimal.</li>
-<li>Along the same lines, people will be encouraged to use land more productively than before.</li>
-<li>This is essentially a wealth tax, which I believe is much more efficient than an income tax. Many people, when they achieve wealth, stop working and hence paying income taxes. This will make sure wealth people continue to pay taxes regardless of how much they work.</li>
-<li>Easier administration: Nobody has the incentive to under-report the amount of land they own. If they paid for 6000 square feet, why would they not claim the 100 square feet they're entitled to? (It's 4 dollars a year) Plus, since the exact property is explicitly described in the ownership-transfer contracts, filing the tax entry for this is as simple as finding out how many square feet you own.</li>
-</ol>
+
+1. The supply curve of land is virtually vertical. Therefore, raising the tax will have a negligible effect on the amount of land available. This has been the principle argument used by economists in favor of a land tax
+1. This will discourage the ownership of idle land. Since the owners are paying the money no matter what they do with the land, people will be less inclined to squat on land and leave it unproductive. Therefore, land speculation for underdeveloped regions will be minimal.
+1. Along the same lines, people will be encouraged to use land more productively than before.
+1. This is essentially a wealth tax, which I believe is much more efficient than an income tax. Many people, when they achieve wealth, stop working and hence paying income taxes. This will make sure wealth people continue to pay taxes regardless of how much they work.
+1. Easier administration: Nobody has the incentive to under-report the amount of land they own. If they paid for 6000 square feet, why would they not claim the 100 square feet they're entitled to? (It's 4 dollars a year) Plus, since the exact property is explicitly described in the ownership-transfer contracts, filing the tax entry for this is as simple as finding out how many square feet you own.
+
 According to the <a href="http://www.ers.usda.gov/publications/EIB14/eib14j.pdf">USDA</a>, 1.38 billion acres of land were under private ownership in 2002. Hence, the 4 cent/square feet tax will net 2.4 trillion dollars per year. (At least 2 trillion dollars assuming private land ownership will not fall more than 17%)
 
 ### The Commodity Taxes ###

@@ -9,13 +9,13 @@ Of course, I can't divulge the non-public details but I will try my best to expl
 Bing is marketed as a "decision engine" rather than a search engine--but what does that mean? It means that Bing should be a destination for users who are looking to make a decision--which flight to take, where to buy the camera, whether to work out in the morning or in the evening, and which hybrid vehicle to try out--and in order to make a smart decision, the users need reliable information--whether flights from SF or Oakland are cheaper, critical reviews of the camera, calorie metrics for different workout regimes, and comparisons of the Prius and the Insight. Essentially, Bing tries to do more than bring you a list of ten websites it believes will be the most informative. It brings the information to you, directly.
 
 Let's take a look at few examples:
-<ol>
-<li>Which flight to take: Search <a href="http://www.bing.com/search?q=oakland+to+seattle">Oakland to Seattle</a></li>
-<li>Find reviews, prices and shopping links for the Nikon D40: Search <a href="http://www.bing.com/search?q=Nikon+d40">Nikon D40</a></li>
-<li>Research specs for the Toyota Prius: Search <a href="http://www.bing.com/search?q=prius">Prius</a></li>
-<li>Track your packages or find customer service numbers: Search <a href="http://www.bing.com/search?q=ups">UPS</a> or <a href="http://www.bing.com/search?q=fedex">Fedex</a></li>
-<li>Solve simple equations: Search <a href="http://www.bing.com/search?q=x^2%2B1%3D3">x^2+1=3</a></li>
-</ol>
+
+1. Which flight to take: Search <a href="http://www.bing.com/search?q=oakland+to+seattle">Oakland to Seattle</a>
+1. Find reviews, prices and shopping links for the Nikon D40: Search <a href="http://www.bing.com/search?q=Nikon+d40">Nikon D40</a>
+1. Research specs for the Toyota Prius: Search <a href="http://www.bing.com/search?q=prius">Prius</a>
+1. Track your packages or find customer service numbers: Search <a href="http://www.bing.com/search?q=ups">UPS</a> or <a href="http://www.bing.com/search?q=fedex">Fedex</a>
+1. Solve simple equations: Search <a href="http://www.bing.com/search?q=x^2%2B1%3D3">x^2+1=3</a>
+
 
 Search itself is a commodity. Research has shown that web surfers can't distinguish between the three major search engines in blind experiments (where people were given no hints of the engine via the formatting, style, or anything of that sort). Even shortcut-features like "define caprice", "5*4*log(3)", "TSL" and "China's Unemployment Rate" come standard with the top search engines.
 

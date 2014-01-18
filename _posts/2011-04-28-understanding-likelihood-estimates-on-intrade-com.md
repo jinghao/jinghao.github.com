@@ -6,10 +6,10 @@ tags: [ dailycow, Intrade, Presidential Election, Probabilities, Statistics ]
 For those of you who are not familiar with the website, it is a futures platform for predictions like elections. The idea is that through trade, the prices approximate the public's consensus on the approximate likelihood of something happening, like <a href="http://intrade.com/v4/markets/contract/?contractId=748151">Trump winning the 2012 election</a>.
 
 Here are some consensus estimates for the 2012 Presidential election:
-<ul>
-<li>President Obama has a <a href="http://intrade.com/v4/markets/contract/?contractId=743474">59.7% chance of being elected</a>, suggesting the highest probability for a Republican win is 40.3%.</li>
-<li>Donald Trump has a <a href="http://intrade.com/v4/markets/contract/?contractId=741970">8.5% chance of becoming the Republican nominee</a>, and a 5.7% chance of becoming elected. That means (through Bayes rule), if Donald Trump were nominated, Trump has a 67% chance of being elected.</li>
-</ul>
+
+1. President Obama has a <a href="http://intrade.com/v4/markets/contract/?contractId=743474">59.7% chance of being elected</a>, suggesting the highest probability for a Republican win is 40.3%.
+1. Donald Trump has a <a href="http://intrade.com/v4/markets/contract/?contractId=741970">8.5% chance of becoming the Republican nominee</a>, and a 5.7% chance of becoming elected. That means (through Bayes rule), if Donald Trump were nominated, Trump has a 67% chance of being elected.
+
 The second fact reveals an interesting fact about the beliefs of people on Intrade. Somehow they believe that Trump has a good chance of winning if he were nominated. That encouraged me to research further to compose the following table:
 
 <table>
