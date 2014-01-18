@@ -23,7 +23,7 @@ Yet there's a tension between measurement and leverage. The easiest path to meas
 
 So how do you position yourself in the latter zone when startups don't have enough leverage (unless you get lucky), and large companies are unwilling or unable to reward proportionately with impact? Quantitative trading firms are clearly an option--they often try to poach engineers from tech firms by promising multiples the rewards. But if you like the technology sector, is there another way?
 
-There's a currency that you acquire through working with people that's a lot more valuable in the long term than the pay (Unless you're Henrique)--the trust and respect of your colleagues. While it's hard for companies to measure and reward good work, it's recognized by your peers. This is the fuel behind upward momentum. 
+There is a currency that you acquire through working with people that's a lot more valuable in the long term than the pay (Unless you're Henrique)--the trust and respect of your colleagues. While it's hard for companies to measure and reward good work, it's recognized by your peers. This is the fuel behind upward momentum. 
 
 An reputable company with the trust of peers of exceptional people is a launchpad, whether to your own company (where you can have immediate leverage because you don't have to start from step 0) or a more leveraged position somewhere else.
 
