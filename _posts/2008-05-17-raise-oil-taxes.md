@@ -27,7 +27,7 @@ The higher price will force consumers to consider more carefully the impact of t
 
 <h3>Calculated Environmental Costs</h3>
 
-This part I hope is completely obvious. When there is a personal cost to environmental damage, people will consider it more.</li>
+This part I hope is completely obvious. When there is a personal cost to environmental damage, people will consider it more.
 
 <h3>Competing Interests</h3>
 
