@@ -23,6 +23,4 @@ After a year, many experienced engineers have moved on, leaving behind a ball of
 
 You made a levered bet. By definition, if the bet succeeds, you will reap larger rewards but if the bet flounders, you will pay greater costs. After you have committed to that bet (with the investment or technical push), your options are more constrained so you may miss out on other opportunities--whether it be a strategic investment or a technical direction you can build towards. And you will continue to pay for the debt until you return the principal--by paying down the debt/buying back the equity, or refactoring away the technical shortcuts--with each payment costing incrementally more (Highly-levered companies are riskier, so creditors and investors demand higher nominal returns, and the cost of layered debt grows not arithmetically but geometrically with the thickness of the layers).
 
-### Conclusion
-
 Debt has a place, and it's when you have a high-conviction, unique and time-sensitive opportunity. In that case, that debt may finance the investment to leapfrog to the next level, at which point you can pay back your debt with plenty left to invest into the next great opportunity.
