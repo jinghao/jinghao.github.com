@@ -8,4 +8,4 @@ In response to the [Microsoft initiative to explore the educational link to vide
 
 Then he continued: "My <strong>reaction time</strong> has actually gone <strong>up</strong>, thanks to playing video games." Somehow I doubt that those games sharpened her brain. I laughed when I picked up the irony of the statement.
 
-If the Mercury News replaces the article, check [this](/system/files/article.pdf). If you laughed, please [Digg this page](http://digg.com/comedy/Do_Games_Improve_Academic_Performance).
+If the Mercury News replaces the article, check [this](/uploads/article.pdf). If you laughed, please [Digg this page](http://digg.com/comedy/Do_Games_Improve_Academic_Performance).

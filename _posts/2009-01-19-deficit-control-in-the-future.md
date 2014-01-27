@@ -16,7 +16,7 @@ Let's take the following assumptions as given:
 
 Hence I propose that the deficit limits be dynamically adjusted around the nominal growth rates of the same year (If the budget in question is for 2008, the limits will depend on the (projected) growth rate in 2008) according to the following schedule:
 
-<img src="/system/files/deficitGuidelines.png" />
+<img src="/uploads/deficitGuidelines.png" />
 
 So now to answer a few questions:
 

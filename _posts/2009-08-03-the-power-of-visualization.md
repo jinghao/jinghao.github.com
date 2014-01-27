@@ -8,8 +8,8 @@ This Sunday I went to my office and prototyped something that has little to do w
 
 Here's the first iteration:
 
-<a href="/system/files/Page1.png"><img src="/system/files/Page1_s.png" /></a>
-<a href="/system/files/Page2.png"><img src="/system/files/Page2_s.png" /></a>
+<a href="/uploads/Page1.png"><img src="/uploads/Page1_s.png" /></a>
+<a href="/uploads/Page2.png"><img src="/uploads/Page2_s.png" /></a>
 
 Originally, I wanted to use Silverlight to create a real-time (or time-varying) visualization tool for the jobs, so that users can see their jobs' progress as they are running. However, because of the size of some of our jobs (many are in the petabyte-range and require the simultaneous cooperation of tens of thousands of machines), I needed a solution that could scale, and Silverlight was not it, at least with the little knowledge of it that I have right now.
 
