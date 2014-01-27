@@ -1,0 +1,166 @@
+<?php
+
+$numthreads = 10;
+
+// never stop
+set_time_limit(0);
+
+function sendRequest($body, $http_body = false)
+{
+	if(($post_socket = @fsockopen("www.freerice.com", 80)) !== false)
+	{
+		// process body & head
+		$body = $body . "\r\n";
+		$head = "POST /index.php HTTP/1.0\r\n".
+				"Host: www.freerice.com\r\n".
+				"Content-Type:  application/x-www-form-urlencoded\r\n".
+				"Content-Length: " . strlen($body) . "\r\n\r\n\r\n";
+
+		@fwrite($post_socket, $head);
+		@fwrite($post_socket, $body);
+
+		if($http_body)
+		{
+			// get return
+			while (!feof($post_socket))
+			{
+				$http_data .= fgets($post_socket);
+			}
+			
+			// spit out header and body
+			list($http_headers, $http_body) = explode("\r\n\r\n", $http_data, 2);
+		}
+
+		@fclose($post_socket);
+		
+		return $http_body;
+	}
+	
+	echo "<p>Error sending request <code>$body</code></p>";
+}
+
+// takes in the html of the response and uses regexp to parse out a couple variables, and store all that into $post, which may have initial values
+function parsePage($html, $post = array())
+{
+	// by default
+	$post['ANSWER'] = $post['ERROR'] = false;
+
+	// no page? server error!
+	if($html == "")
+	{
+		$post['ERROR'] = "server unresponsive";
+	}
+	
+	// we bugged them too much
+	else if(strpos($html, '<div id="errorDisplay">'))
+	{
+		$post['ERROR'] = "request too fast";
+	}
+	
+	// looks like things are fine
+	else
+	{
+		// get INFO
+		$post['INFO'] = preg_match("#<input type=hidden name=\"INFO\" value=(\d+) />#", $html, $match) ? $match[1] : "";
+	
+		// get INFO2
+		$post['INFO2'] = preg_match("#<input type=hidden name=\"INFO2\" value=(\d+) />#", $html, $match) ? $match[1] : "";
+
+		// get word
+		$post['WORD'] = preg_match("#<strong>(\w+)</strong> means#", $html, $match) ? $match[1] : "error";
+	
+		// if correct, get the answer
+		$post['ANSWER'] = preg_match("#<div id=\"correctDef\">[\w\s]+ = ([\w\s]+)</div>#", $html, $match) ? $match[1] : false;
+	}
+
+	return $post;	
+}
+
+// we're starting
+echo "0. Parsing starting data:\n";
+
+for($thread = 0; $thread < $numthreads; $thread++)
+{
+	// Indicate when we start grabbing stuff
+	echo "\t$thread. Loading... ";
+
+	// grab output from the server (with no input) and parse it
+	$post[$thread] = parsePage(sendRequest("", true));
+
+	// indicate when we're done
+	echo "done.\n";
+}
+
+// by default
+$grains_donated = 0;
+
+// infinite loop!
+while(++$i)
+{
+	// the start of each set
+	echo "$i. Submitting choices... ";
+	
+	// for each of the 3 other answers, submit for each thread.
+	for($selected = 4; $selected > 1; $selected--)
+	{
+		// Progress indicator--tells you what choice the script is processing
+		echo "$selected";
+		
+		// for each thread, submit answer $selected
+		for($thread = 0; $thread < $numthreads; $thread++)
+		{
+			// the previous word is kept so it won't be overwritten
+			$word[$thread] = $post[$thread]['WORD'];
+			
+			// if either is not present, we have bad data... so delay until later.
+			if($post[$thread]['INFO2'] and $post[$thread]['INFO'])
+			{
+				// parse body (selected is not specified)
+				$body_prefix[$thread] = "&INFO2={$post[$thread][INFO2]}&INFO={$post[$thread][INFO]}&SELECTED=";
+				
+				// actually send the data
+				sendRequest($body_prefix[$thread] . "$selected");
+			}
+			else
+			{
+				// don't want it conflicting!
+				$body_prefix[$thread] = "";
+			}
+			
+			// progress indicator--each dot tells the user that one thread has been processed
+			echo ".";
+		}
+		
+		// aesthetic thing to separate the dots of different processes
+		echo " ";
+	}
+	
+	// tell the user that all alternative options for all threads have been parsed
+	echo "done.\n";
+	
+	// the important part: do this for each thread
+	for($thread = 0; $thread < $numthreads; $thread++)
+	{
+		// get and parse the page, and save to $post[$thread]
+		$post[$thread] = parsePage(sendRequest($body_prefix[$thread] . "1", true), $post[$thread]);
+		
+		// indicate the beginning
+		echo "\t$thread. ";
+		
+		// if there's an error, report it
+		if($post[$thread]['ERROR'])
+		{
+			echo "Error: {$post[$thread][ERROR]}\n";
+		}
+		
+		// otherwise add twenty to the grains donated and print the result
+		else
+		{
+			$grains_donated += 20;
+
+			// print the stuff
+			echo $word[$thread].($post[$thread]['ANSWER'] ? " ({$post[$thread][ANSWER]})" : "").": Donated $grains_donated grains.\n";
+		}
+	}
+}
+?>

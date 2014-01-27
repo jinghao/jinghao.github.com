@@ -1,0 +1,66 @@
+stop();
+
+// the ID of the last message
+var msgid = -2;
+var defaultMessage = "Type your message here...";
+
+function updateMessage()
+{
+	this.message_id = int(this.message_id);
+	
+	if(this.message_id > msgid && this.returnText != "")
+	{
+		formResult.text += this.returnText;
+		msgid = this.message_id;
+		this.returnText = '';
+	}
+	
+	this.message_id = 0;
+}
+updateMsgId();
+
+function clearIfDefault()
+{
+	if(formMessage.text == defaultMessage)
+	{
+		formMessage.text = "";
+	}
+}
+
+function sendRequest(message_id, user_id, message_text)
+{
+	// save the params
+	chatSender.message_id = message_id;
+	chatSender.user_id = user_id;
+	chatSender.message_text = message_text;
+	
+	// send it off
+	chatSender.sendAndLoad("http://my.originxt.com/scripts/flashchat/process.php", chatReceiver);
+}
+
+function sendMessage()
+{
+	sendRequest(msgid, formName.text, formMessage.text);
+	formMessage.text = "";
+}
+
+function checkMessage()
+{
+	sendRequest(msgid);
+}
+
+// initialize
+formMessage.text = defaultMessage;
+
+// create the afax objs
+var chatSender:LoadVars = new LoadVars();
+var chatReceiver:LoadVars = new LoadVars();
+
+// event catchers
+DebugButton.onPress = checkMessage;
+formMessage.onSetFocus = clearIfDefault;
+SubmitButton.onRelease = sendMessage;
+chatReceiver.onLoad = updateMessage;
+
+// check for messages every 1000 milliseconds
+setInterval(checkMessage, 1000);

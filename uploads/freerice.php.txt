@@ -1,0 +1,146 @@
+<?php
+
+$startTime = explode(' ', microtime ());
+
+session_name("progress");
+session_start();
+
+function sendRequest($body, $http_body = false)
+{
+	if(($post_socket = @fsockopen("www.freerice.com", 80)) !== false)
+	{
+		// process body & head
+		$body = $body . "\r\n";
+		$head = "POST /index.php HTTP/1.0\r\n".
+				"Host: www.freerice.com\r\n".
+				"Content-Type:  application/x-www-form-urlencoded\r\n".
+				"Content-Length: " . strlen($body) . "\r\n\r\n\r\n";
+
+		@fwrite($post_socket, $head);
+		@fwrite($post_socket, $body);
+
+		if($http_body)
+		{
+			// get return
+			while (!feof($post_socket))
+			{
+				$http_data .= fgets($post_socket);
+			}
+			
+			// spit out header and body
+			list($http_headers, $http_body) = explode("\r\n\r\n", $http_data, 2);
+		}
+
+		@fclose($post_socket);
+		
+		return $http_body;
+	}
+	
+	echo "<p>Error sending request <code>$body</code></p>";
+}
+
+function parsePost($post = array())
+{
+	if($post['INFO2'] and $post['INFO'])
+	{
+		// parse body (selected is not specified)
+		$body_prefix = "&INFO2=$post[INFO2]&INFO=$post[INFO]&SELECTED=";
+
+		for($i = 4; $i > 1; $i--)
+		{
+			sendRequest($body_prefix . "$i");
+		}	
+	}
+
+	return sendRequest($body_prefix . "1", true);
+}
+
+function parsePage($html, $post = array('BASE_GRAIN' => -20))
+{
+	// by default
+	$post['ANSWER'] = $post['ERROR'] = false;
+
+	// no page? server error!
+	if($html == "")
+	{
+		$post['ERROR'] = "server unresponsive";
+	}
+	
+	// we bugged them too much
+	else if(strpos($html, '<div id="errorDisplay">'))
+	{
+		$post['ERROR'] = "request too fast";
+	}
+	
+	// looks like things are fine
+	else
+	{
+		// get INFO
+		$post['INFO'] = preg_match("#<input type=hidden name=\"INFO\" value=(\d+) />#", $html, $match) ? $match[1] : "";
+	
+		// get INFO2
+		$post['INFO2'] = preg_match("#<input type=hidden name=\"INFO2\" value=(\d+) />#", $html, $match) ? $match[1] : "";
+
+		// get word
+		$post['WORD'] = preg_match("#<strong>(\w+)</strong> means#", $html, $match) ? $match[1] : "error";
+	
+		// if correct, get the answer
+		$post['ANSWER'] = preg_match("#<div id=\"correctDef\">[\w\s]+ = ([\w\s]+)</div>#", $html, $match) ? $match[1] : false;
+	
+		// increment grain count
+		$post['BASE_GRAIN'] += 20;
+	}
+
+	return $post;	
+}
+
+// get the starting point, either from session or from a new request
+$post = $_SESSION['progress'] ? $_SESSION['progress'] : parsePage(parsePost());
+$word = $post['WORD'];
+
+// get the page and save to session
+$_SESSION['progress'] = $post = parsePage(parsePost($post), $post);
+
+// start outputting headers
+@header("HTTP/1.0 200 OK");
+@header("HTTP/1.1 200 OK");
+@header("Content-type: text/html");
+
+// don't cache, please
+@header("Cache-Control: no-cache, must-revalidate, max-age=0");
+@header("Expires: Mon, 26 Jul 1997 05:00:00 GMT");
+@header("Pragma: no-cache");
+
+if($post['ERROR'])
+{
+	echo "<p><b>Error: $post[ERROR]</b></p>\n";
+}
+else
+{
+	// show answer if first guess was correct
+	if($post['ANSWER'])
+	{
+		$word .= " ($post[ANSWER])";
+	}
+
+	// print the stuff
+	echo "<p><b>$word</b>: donated <b>$post[BASE_GRAIN]</b> grains.</p>\n";
+}
+
+// calculate execution time
+$endTime = explode(' ', microtime ());
+$execTime = ($endTime[1] + $endTime[0]) - ($startTime[1] + $startTime[0]);
+
+// save execution time
+$_SESSION['totalTime'] += $execTime;
+
+// round them to five decimals
+$totalTime = round ($_SESSION['totalTime'], 5);
+$timeUsed = round ($execTime, 5);
+
+// print the execution time
+echo "<p>This load took $timeUsed seconds. You have used $totalTime seconds. Please wait one second...</p>";
+?>
+<script type="text/javascript">
+	setTimeout("window.location.reload()", 1000);
+</script>

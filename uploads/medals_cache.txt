@@ -1,0 +1,620 @@
+<?php
+$medals_by_country = array (
+  'CHN' => 
+  array (
+    'gold' => 51,
+    'silver' => 21,
+    'bronze' => 28,
+    'total' => 100,
+  ),
+  'USA' => 
+  array (
+    'gold' => 36,
+    'silver' => 38,
+    'bronze' => 36,
+    'total' => 110,
+  ),
+  'GBR' => 
+  array (
+    'gold' => 19,
+    'silver' => 13,
+    'bronze' => 15,
+    'total' => 47,
+  ),
+  'AUS' => 
+  array (
+    'gold' => 14,
+    'silver' => 15,
+    'bronze' => 17,
+    'total' => 46,
+  ),
+  'GER' => 
+  array (
+    'gold' => 16,
+    'silver' => 10,
+    'bronze' => 15,
+    'total' => 41,
+  ),
+  'RUS' => 
+  array (
+    'gold' => 23,
+    'silver' => 21,
+    'bronze' => 29,
+    'total' => 73,
+  ),
+  'KOR' => 
+  array (
+    'gold' => 13,
+    'silver' => 10,
+    'bronze' => 8,
+    'total' => 31,
+  ),
+  'JPN' => 
+  array (
+    'gold' => 9,
+    'silver' => 6,
+    'bronze' => 10,
+    'total' => 25,
+  ),
+  'ITA' => 
+  array (
+    'gold' => 8,
+    'silver' => 9,
+    'bronze' => 10,
+    'total' => 27,
+  ),
+  'UKR' => 
+  array (
+    'gold' => 7,
+    'silver' => 5,
+    'bronze' => 15,
+    'total' => 27,
+  ),
+  'FRA' => 
+  array (
+    'gold' => 7,
+    'silver' => 16,
+    'bronze' => 18,
+    'total' => 41,
+  ),
+  'NED' => 
+  array (
+    'gold' => 7,
+    'silver' => 5,
+    'bronze' => 4,
+    'total' => 16,
+  ),
+  'ROU' => 
+  array (
+    'gold' => 4,
+    'silver' => 1,
+    'bronze' => 3,
+    'total' => 8,
+  ),
+  'ESP' => 
+  array (
+    'gold' => 5,
+    'silver' => 10,
+    'bronze' => 3,
+    'total' => 18,
+  ),
+  'POL' => 
+  array (
+    'gold' => 3,
+    'silver' => 6,
+    'bronze' => 1,
+    'total' => 10,
+  ),
+  'SVK' => 
+  array (
+    'gold' => 3,
+    'silver' => 2,
+    'bronze' => 1,
+    'total' => 6,
+  ),
+  'CAN' => 
+  array (
+    'gold' => 3,
+    'silver' => 9,
+    'bronze' => 6,
+    'total' => 18,
+  ),
+  'KEN' => 
+  array (
+    'gold' => 6,
+    'silver' => 4,
+    'bronze' => 4,
+    'total' => 14,
+  ),
+  'CZE' => 
+  array (
+    'gold' => 3,
+    'silver' => 3,
+    'bronze' => 0,
+    'total' => 6,
+  ),
+  'JAM' => 
+  array (
+    'gold' => 6,
+    'silver' => 3,
+    'bronze' => 2,
+    'total' => 11,
+  ),
+  'NZL' => 
+  array (
+    'gold' => 3,
+    'silver' => 2,
+    'bronze' => 4,
+    'total' => 9,
+  ),
+  'DEN' => 
+  array (
+    'gold' => 2,
+    'silver' => 2,
+    'bronze' => 3,
+    'total' => 7,
+  ),
+  'PRK' => 
+  array (
+    'gold' => 2,
+    'silver' => 1,
+    'bronze' => 3,
+    'total' => 6,
+  ),
+  'ETH' => 
+  array (
+    'gold' => 4,
+    'silver' => 1,
+    'bronze' => 2,
+    'total' => 7,
+  ),
+  'SUI' => 
+  array (
+    'gold' => 2,
+    'silver' => 1,
+    'bronze' => 4,
+    'total' => 7,
+  ),
+  'GEO' => 
+  array (
+    'gold' => 3,
+    'silver' => 0,
+    'bronze' => 3,
+    'total' => 6,
+  ),
+  'CUB' => 
+  array (
+    'gold' => 2,
+    'silver' => 11,
+    'bronze' => 11,
+    'total' => 24,
+  ),
+  'BLR' => 
+  array (
+    'gold' => 4,
+    'silver' => 5,
+    'bronze' => 10,
+    'total' => 19,
+  ),
+  'KAZ' => 
+  array (
+    'gold' => 2,
+    'silver' => 4,
+    'bronze' => 7,
+    'total' => 13,
+  ),
+  'ZIM' => 
+  array (
+    'gold' => 1,
+    'silver' => 3,
+    'bronze' => 0,
+    'total' => 4,
+  ),
+  'AZE' => 
+  array (
+    'gold' => 1,
+    'silver' => 2,
+    'bronze' => 4,
+    'total' => 7,
+  ),
+  'NOR' => 
+  array (
+    'gold' => 3,
+    'silver' => 5,
+    'bronze' => 1,
+    'total' => 9,
+  ),
+  'SLO' => 
+  array (
+    'gold' => 1,
+    'silver' => 2,
+    'bronze' => 2,
+    'total' => 5,
+  ),
+  'INA' => 
+  array (
+    'gold' => 1,
+    'silver' => 1,
+    'bronze' => 3,
+    'total' => 5,
+  ),
+  'BUL' => 
+  array (
+    'gold' => 1,
+    'silver' => 1,
+    'bronze' => 3,
+    'total' => 5,
+  ),
+  'FIN' => 
+  array (
+    'gold' => 1,
+    'silver' => 1,
+    'bronze' => 2,
+    'total' => 4,
+  ),
+  'EST' => 
+  array (
+    'gold' => 1,
+    'silver' => 1,
+    'bronze' => 0,
+    'total' => 2,
+  ),
+  'MGL' => 
+  array (
+    'gold' => 2,
+    'silver' => 2,
+    'bronze' => 0,
+    'total' => 4,
+  ),
+  'BRA' => 
+  array (
+    'gold' => 3,
+    'silver' => 4,
+    'bronze' => 8,
+    'total' => 15,
+  ),
+  'ARG' => 
+  array (
+    'gold' => 2,
+    'silver' => 0,
+    'bronze' => 4,
+    'total' => 6,
+  ),
+  'BRN' => 
+  array (
+    'gold' => 1,
+    'silver' => 0,
+    'bronze' => 0,
+    'total' => 1,
+  ),
+  'CMR' => 
+  array (
+    'gold' => 1,
+    'silver' => 0,
+    'bronze' => 0,
+    'total' => 1,
+  ),
+  'IND' => 
+  array (
+    'gold' => 1,
+    'silver' => 0,
+    'bronze' => 2,
+    'total' => 3,
+  ),
+  'PAN' => 
+  array (
+    'gold' => 1,
+    'silver' => 0,
+    'bronze' => 0,
+    'total' => 1,
+  ),
+  'THA' => 
+  array (
+    'gold' => 2,
+    'silver' => 2,
+    'bronze' => 0,
+    'total' => 4,
+  ),
+  'TUN' => 
+  array (
+    'gold' => 1,
+    'silver' => 0,
+    'bronze' => 0,
+    'total' => 1,
+  ),
+  'HUN' => 
+  array (
+    'gold' => 3,
+    'silver' => 5,
+    'bronze' => 2,
+    'total' => 10,
+  ),
+  'SWE' => 
+  array (
+    'gold' => 0,
+    'silver' => 4,
+    'bronze' => 1,
+    'total' => 5,
+  ),
+  'TUR' => 
+  array (
+    'gold' => 1,
+    'silver' => 4,
+    'bronze' => 3,
+    'total' => 8,
+  ),
+  'UZB' => 
+  array (
+    'gold' => 1,
+    'silver' => 2,
+    'bronze' => 3,
+    'total' => 6,
+  ),
+  'AUT' => 
+  array (
+    'gold' => 0,
+    'silver' => 1,
+    'bronze' => 2,
+    'total' => 3,
+  ),
+  'GRE' => 
+  array (
+    'gold' => 0,
+    'silver' => 2,
+    'bronze' => 2,
+    'total' => 4,
+  ),
+  'LTU' => 
+  array (
+    'gold' => 0,
+    'silver' => 2,
+    'bronze' => 3,
+    'total' => 5,
+  ),
+  'ALG' => 
+  array (
+    'gold' => 0,
+    'silver' => 1,
+    'bronze' => 1,
+    'total' => 2,
+  ),
+  'COL' => 
+  array (
+    'gold' => 0,
+    'silver' => 1,
+    'bronze' => 1,
+    'total' => 2,
+  ),
+  'CRO' => 
+  array (
+    'gold' => 0,
+    'silver' => 2,
+    'bronze' => 3,
+    'total' => 5,
+  ),
+  'KGZ' => 
+  array (
+    'gold' => 0,
+    'silver' => 1,
+    'bronze' => 1,
+    'total' => 2,
+  ),
+  'SRB' => 
+  array (
+    'gold' => 0,
+    'silver' => 1,
+    'bronze' => 2,
+    'total' => 3,
+  ),
+  'CHI' => 
+  array (
+    'gold' => 0,
+    'silver' => 1,
+    'bronze' => 0,
+    'total' => 1,
+  ),
+  'ECU' => 
+  array (
+    'gold' => 0,
+    'silver' => 1,
+    'bronze' => 0,
+    'total' => 1,
+  ),
+  'MAS' => 
+  array (
+    'gold' => 0,
+    'silver' => 1,
+    'bronze' => 0,
+    'total' => 1,
+  ),
+  'POR' => 
+  array (
+    'gold' => 1,
+    'silver' => 1,
+    'bronze' => 0,
+    'total' => 2,
+  ),
+  'RSA' => 
+  array (
+    'gold' => 0,
+    'silver' => 1,
+    'bronze' => 0,
+    'total' => 1,
+  ),
+  'SIN' => 
+  array (
+    'gold' => 0,
+    'silver' => 1,
+    'bronze' => 0,
+    'total' => 1,
+  ),
+  'TRI' => 
+  array (
+    'gold' => 0,
+    'silver' => 2,
+    'bronze' => 0,
+    'total' => 2,
+  ),
+  'VIE' => 
+  array (
+    'gold' => 0,
+    'silver' => 1,
+    'bronze' => 0,
+    'total' => 1,
+  ),
+  'ARM' => 
+  array (
+    'gold' => 0,
+    'silver' => 0,
+    'bronze' => 6,
+    'total' => 6,
+  ),
+  'TPE' => 
+  array (
+    'gold' => 0,
+    'silver' => 0,
+    'bronze' => 4,
+    'total' => 4,
+  ),
+  'EGY' => 
+  array (
+    'gold' => 0,
+    'silver' => 0,
+    'bronze' => 1,
+    'total' => 1,
+  ),
+  'IRI' => 
+  array (
+    'gold' => 1,
+    'silver' => 0,
+    'bronze' => 1,
+    'total' => 2,
+  ),
+  'LAT' => 
+  array (
+    'gold' => 1,
+    'silver' => 1,
+    'bronze' => 1,
+    'total' => 3,
+  ),
+  'MAR' => 
+  array (
+    'gold' => 0,
+    'silver' => 1,
+    'bronze' => 1,
+    'total' => 2,
+  ),
+  'MEX' => 
+  array (
+    'gold' => 2,
+    'silver' => 0,
+    'bronze' => 1,
+    'total' => 3,
+  ),
+  'TJK' => 
+  array (
+    'gold' => 0,
+    'silver' => 1,
+    'bronze' => 1,
+    'total' => 2,
+  ),
+  'TOG' => 
+  array (
+    'gold' => 0,
+    'silver' => 0,
+    'bronze' => 1,
+    'total' => 1,
+  ),
+  'ISR' => 
+  array (
+    'gold' => 0,
+    'silver' => 0,
+    'bronze' => 1,
+    'total' => 1,
+  ),
+  'AHO' => 
+  array (
+    'gold' => 0,
+    'silver' => 1,
+    'bronze' => 0,
+    'total' => 1,
+  ),
+  'DOM' => 
+  array (
+    'gold' => 1,
+    'silver' => 1,
+    'bronze' => 0,
+    'total' => 2,
+  ),
+  'AFG' => 
+  array (
+    'gold' => 0,
+    'silver' => 0,
+    'bronze' => 1,
+    'total' => 1,
+  ),
+  'VEN' => 
+  array (
+    'gold' => 0,
+    'silver' => 0,
+    'bronze' => 1,
+    'total' => 1,
+  ),
+  'BAH' => 
+  array (
+    'gold' => 0,
+    'silver' => 1,
+    'bronze' => 1,
+    'total' => 2,
+  ),
+  'IRL' => 
+  array (
+    'gold' => 0,
+    'silver' => 1,
+    'bronze' => 2,
+    'total' => 3,
+  ),
+  'BEL' => 
+  array (
+    'gold' => 1,
+    'silver' => 1,
+    'bronze' => 0,
+    'total' => 2,
+  ),
+  'NGR' => 
+  array (
+    'gold' => 0,
+    'silver' => 1,
+    'bronze' => 3,
+    'total' => 4,
+  ),
+  'MRI' => 
+  array (
+    'gold' => 0,
+    'silver' => 0,
+    'bronze' => 1,
+    'total' => 1,
+  ),
+  'MDA' => 
+  array (
+    'gold' => 0,
+    'silver' => 0,
+    'bronze' => 1,
+    'total' => 1,
+  ),
+  'SUD' => 
+  array (
+    'gold' => 0,
+    'silver' => 1,
+    'bronze' => 0,
+    'total' => 1,
+  ),
+  'ISL' => 
+  array (
+    'gold' => 0,
+    'silver' => 1,
+    'bronze' => 0,
+    'total' => 1,
+  ),
+);
+?>

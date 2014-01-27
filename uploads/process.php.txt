@@ -1,0 +1,59 @@
+<?php
+$glue = "|>|";
+$file = "data.dat";
+
+define("MIN_LEN_NAME", 1);
+define("MIN_LEN_MESSAGE", 1);
+
+function makeQuery($input)
+{
+	while(list($k) = each($input))
+	{
+		$return .= $k."=".urlencode($input[$k])."&";
+	}
+	
+	return $return;
+}
+
+function cleanInput($input)
+{
+	return preg_replace("#\s#", " ", get_magic_quotes_gpc() ? stripslashes($input) : $input);
+}
+
+function parseSubmission($id, $user, $message)
+{
+	global $file, $glue;
+	
+	$msg_array = @filesize($file) ? explode("\n", rtrim(file_get_contents($file))) : array();
+	$last_elem = $output['message_id'] = count($msg_array) - 1;
+
+	// we just started, so set the last ID to the last element ID for now
+	if($id == -2)
+	{
+		$id = $last_elem;
+	}
+
+	if(strlen($user) >= MIN_LEN_NAME and strlen($message) >= MIN_LEN_MESSAGE)
+	{
+		$msg_array[] = $towrite = implode($glue, array((string)time(), $_SERVER['REMOTE_ADDR'], $user, $message));
+		$last_elem++;
+		
+		$fp = fopen($file, "a+");
+		
+		fwrite($fp, "$towrite\n");
+		fclose($fp);
+	}
+
+	// get all messages whose key is > $id
+	for($i = $last_elem; $i > $id; $i--)
+	{
+		list($msg_time, $msg_ip, $msg_user, $msg_text) = explode($glue, $msg_array[$i], 4);
+		$timestamp = date("H:i:s", $msg_time);
+		$output['returnText'] = "<font style='color:red'>$timestamp</font>&nbsp;<b>$msg_user</b>: $msg_text\n".$output['returnText'];
+	}
+
+	return makeQuery($output);
+}
+
+echo parseSubmission(intval($_REQUEST['message_id']), htmlspecialchars(cleanInput($_REQUEST['user_id'])), cleanInput($_REQUEST['message_text']));
+?>
