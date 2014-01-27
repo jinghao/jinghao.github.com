@@ -13,7 +13,7 @@ Some time later, you finally start to see results. At this point, this will make
 
 <br />
 
-__You're the tech lead of the infrastructure team__ within this company, and your CEO just announced a major opportunity for the company, reorganizing the company around this new strategy. The product teams, pushed to produce results ever more quickly, become impatient at your team's calmness. "We have to launch this soon or ...," they argue. "We'll clean it up as soon as we can," they said.
+__You're leading the infrastructure team__ within this company, and your CEO just announced a major opportunity for the company, reorganizing the company around this new strategy. The product teams, pushed to produce results ever more quickly, become impatient at your team's calmness. "We have to launch this soon or ...," they argue. "We'll clean it up as soon as we can," they said.
 
 Little by little, your team relents to the pressure to take shortcuts. Every once in a while, some important requirement would change, and instead of implementing a holistic solution around the new requirements, teams layer on additional logic to "just make it work."
 
