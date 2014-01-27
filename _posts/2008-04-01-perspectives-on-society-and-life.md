@@ -8,7 +8,7 @@ Religion, economics, mathematics and philosophy are just different perspectives 
 
 Two and half weeks ago on pi day (3/14 for those in the dark), when forced to reveal a "secret" that I thought would be interesting for others to know, I wrote on a piece of paper: "I have always told myself and others that I am a true utilitarian, but I don't know how far I would sacrifice my own welfare for the benefit of the whole"; and I accompanied it with a helpful diagram (blue denotes my portion of the hypothetical "economic pie" and gray denotes others'):
 
-<img src="http://dailycow.org/sites/dailycow.org/files/economicpie.png" />
+<img src="/uploads/economicpie.png" />
 
 (For those who are wondering: No, it was not intentional for me to draw a pie on pi day)
 

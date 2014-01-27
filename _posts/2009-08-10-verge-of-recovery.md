@@ -6,6 +6,6 @@ categories: employment economy
 ---
 See below (I superimposed a best-fit normal curve on top of the graph):
 
-<img src="http://dailycow.org/system/files/jobs.png" />
+<img src="/uploads/jobs.png" />
 
 How come we're off the target for June?

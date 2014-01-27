@@ -12,7 +12,7 @@ In this case, they are introducing the price-segmentation scheme in an extremely
 
 Although for Apple, figuring out who's willing to spend how much is extremely difficult, the task is much easier for drug companies. People will spend as much as they can afford to purchase life-extending medicines--so to extend "discounts" to seniors for drugs not covered by Medicare is no altruistic deed. To illustrate the point, I've diagrammed the whole discussion in two simple standard supply-and-demand diagrams:
 
-<img src="http://dailycow.org/system/files/sdchart.png" />
+<img src="/uploads/sdchart.png" />
 
 It is true that this overall system of pricing segmentation is socially more efficient than the incumbent system (the red triangle gets smaller), but that does not mean we consumers are better off. It's questionable whether the consumers as a whole benefit from this. Although it is true that the seniors who could not afford the drugs previously do benefit--and that's great--the drug companies are free to raise the price on the rest of us, so the entire concern regarding the cost of health care is definitely not alleviated.
 
