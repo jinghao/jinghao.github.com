@@ -1305,7 +1305,7 @@ legend + .control-group {
    */
   div.about-author {
     margin: 0;
-    padding: 0 .5em;
+    padding: 0 1em;
     text-align: left;
     margin-bottom: 1.5em;
   }
