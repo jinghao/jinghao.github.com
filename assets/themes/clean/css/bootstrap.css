@@ -1258,9 +1258,6 @@ legend + .control-group {
   .container {
     width: auto;
   }
-  .navbar .brand {
-    font-size: 16px;
-  }
   .row-fluid {
     width: 100%;
   }
@@ -1335,6 +1332,9 @@ legend + .control-group {
   .navbar .brand {
     font-size: 14px;
     padding: 10px 0 10px 12px;
+  }
+  body {
+    font-size: 12px;
   }
   .page-header h1 small {
     display: block;
