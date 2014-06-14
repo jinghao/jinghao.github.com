@@ -2,7 +2,7 @@
 layout: post
 title: 'Cigarette Tax: Good!'
 created: 1237184628
-categories: politics
+tags: politics
 ---
 In response to the [recent tax increase](http://www.msnbc.msn.com/id/29688402/) on tobacco manufacturers and the pending increase on tobacco sales, chain smokers are expressing their discontent with the authorities' decision. Although I favor a more [gradual approach to reducing the number of smokers](/posts/solution-nicotine-addiction), I definitely support this decision.
 

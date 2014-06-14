@@ -2,7 +2,7 @@
 layout: post
 title: The Corollary to the Malthusian Thesis
 created: 1238080194
-categories: random politics catholics
+tags: random politics catholics
 ---
 Thomas Robert Malthus, a 19th century (religious) minister and economist from Great Britain, argued that humanity is eternally trapped by the limits of agricultural production in relation to the natural rate of population growth, and it is only through the positive and preventive checks that the contradiction is resolved. According to him, we are trapped in an eternal state of subsistence whereby the only means of escape is through population control. This, while it was published two centuries ago, was meant to be eternal--that is, applicable now and forever. Yet since the 19th century the world has seen the most significant stages of growth that leaves us several hundred times above subsistence. Was Malthus just wrong?
 

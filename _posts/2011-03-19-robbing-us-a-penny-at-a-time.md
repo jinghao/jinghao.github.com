@@ -2,7 +2,7 @@
 layout: post
 title: Robbing Us a Penny at a Time
 created: 1300569184
-categories: economics
+tags: economics
 ---
 In decentralized markets, [public goods](http://en.wikipedia.org/wiki/Public_good) are under-provisioned because the private benefit to any individual of pursuing action is lower than its corresponding social benefit. There are instances with inverse dynamics: Companies that extract small fractions of money (substitute for anything valuable, like time) from each individual, which collectively amounts to a large sum when spread over millions of individuals. Subsets of the affected individuals do not have the necessary incentives to fight, and therefore such policies remain.
 

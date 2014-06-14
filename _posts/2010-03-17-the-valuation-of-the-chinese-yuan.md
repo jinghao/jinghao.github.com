@@ -2,7 +2,7 @@
 layout: post
 title: The Valuation of the Chinese Yuan
 created: 1268843270
-categories: yuan exchange rate economics
+tags: yuan exchange rate economics
 ---
 A number of people and groups (President Obama, then members of Congress, and now the World Bank) have pressured the People's Bank to let the exchange rate move relative to the dollar, some more angry than others. If they had any knowledge of Chinese culture and history, they would realize that these calls are counterproductive.
 

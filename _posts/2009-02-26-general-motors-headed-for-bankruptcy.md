@@ -2,7 +2,7 @@
 layout: post
 title: General Motors Headed for Bankruptcy
 created: 1235668018
-categories: business economy
+tags: business economy
 ---
 General Motors [lost more money](http://www.reuters.com/article/businessNews/idUSN2653343220090226) than its total revenue for the year--that is, its costs were more than twice its revenue. That's completely unsustainable. Even if the government pays it 30b per year, it will still be losing money. If you don't understand, take this example:
 

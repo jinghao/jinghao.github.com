@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Mythical Engineer
-categories: [engineering]
+tags: [engineering]
 ---
 There's been a [flurry](https://medium.com/about-work/6aedba30ecfe) of [blog posts](http://www.hanselman.com/blog/TheMythOfTheRockstarProgrammer.aspx) debunking the myth of the 10x engineer (or the "Rockstar Programmer").
 

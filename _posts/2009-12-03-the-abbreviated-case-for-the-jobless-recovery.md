@@ -2,7 +2,7 @@
 layout: post
 title: The Abbreviated Case for the Jobless Recovery
 created: 1259866084
-categories: employment economics
+tags: employment economics
 ---
 There are three key reasons why this recovery will be fairly jobless in the short run:
 

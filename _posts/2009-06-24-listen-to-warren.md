@@ -2,7 +2,7 @@
 layout: post
 title: Listen to Warren
 created: 1245905594
-categories: investing economics finance
+tags: investing economics finance
 ---
 [Warren Buffet asserts](http://www.bloomberg.com/apps/news?pid=20601087&sid=ahB_YmpWUynA): "If I have any serious illness, or something coming up of an important nature, an operation or anything like that, I think the thing to do is just tell -- the Berkshire shareholders about it. I work for them. They’re going to find out about it anyway, so I don’t see a big privacy issue or anything of the sort."
 

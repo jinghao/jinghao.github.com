@@ -2,7 +2,7 @@
 layout: post
 title: Verge of Recovery?
 created: 1249971206
-categories: employment economy
+tags: employment economy
 ---
 See below (I superimposed a best-fit normal curve on top of the graph):
 

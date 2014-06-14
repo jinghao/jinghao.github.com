@@ -2,7 +2,7 @@
 layout: post
 title: Asking for GDrive? You're Asking the Wrong Company
 created: 1247349758
-categories: google
+tags: google
 ---
 [A NYT columnist argues](http://bits.blogs.nytimes.com/2009/07/10/online-backups-could-use-googles-expertise/) that it makes strategic sense for Google to offer an online _backup_ solution to compete with Symantec or EMC because it would be a natural progression for the Internet behemoth.
 

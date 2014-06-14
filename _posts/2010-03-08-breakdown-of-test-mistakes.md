@@ -2,7 +2,7 @@
 layout: post
 title: Breakdown of Test Mistakes
 created: 1268108872
-categories: tests school
+tags: tests school
 ---
 Every point I lose on a test can be categorized into one (or more) of the following:
 

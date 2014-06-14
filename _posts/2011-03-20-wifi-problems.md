@@ -2,7 +2,7 @@
 layout: post
 title: WiFi Problems
 created: 1300674778
-categories: wireless wifi
+tags: wireless wifi
 ---
 As of last night, my laptop's wireless is basically unusable. Here's what happens when I try to ping google.com (The same thing happens even if I ping 192.168.1.1 or yahoo.com):
 

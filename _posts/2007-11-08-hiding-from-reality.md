@@ -2,7 +2,7 @@
 layout: post
 title: Hiding from Reality
 created: 1194547489
-categories: politics oil economics
+tags: politics oil economics
 ---
 In an attempt to control the rapid rise in global oil prices, Mr. Srinivasan, India's petroleum secretary (We call that the Secretary of Defense here), recommended that we <a href="http://www.nytimes.com/2007/11/08/business/worldbusiness/08nymex.html" target="_blank">"halt trading of crude oil on commodity exchanges"</a>, brazenly denying the fundamental laws of economics. Mr. Srinivasan predicted that if crude was eliminated from the commodities traded on Nymex, the world would "see a drastic reduction in the price" of crude oil, which reached as high as $98.62/barrel before settling for the day at $96.
 

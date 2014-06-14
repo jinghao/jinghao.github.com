@@ -2,7 +2,7 @@
 layout: post
 title: Castrating Rapists
 created: 1236830337
-categories: random
+tags: random
 ---
 From the NYT:
 

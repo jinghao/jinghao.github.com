@@ -2,7 +2,7 @@
 layout: post
 title: European Union Fines Intel
 created: 1242231008
-categories: business finance politics
+tags: business finance politics
 ---
 Today, we see another [demonstration](http://www.reuters.com/article/businessNews/idUSTRE54C1SO20090513) of the European Commission collecting money for its general funds by [preying on American companies.](http://dailycow.org/node/443) The EU decided to fine Intel 1.5 billion dollars for "abuse of monopoly power." Apparently Intel offered volume discounts to retailers and computer manufacturers (a rebate if you bought a lot from them), and apparently that's illegal. The EC believes bulk discounts hurt consumers, and that is its basis for the fines.
 

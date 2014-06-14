@@ -2,7 +2,7 @@
 layout: post
 title: StringBuffer vs. StringBuilder
 created: 1265181549
-categories: software programming java
+tags: software programming java
 ---
 I'm doing some research work that involves heavy work with the Java string classes (I have IBM Java), and I was trying to determine concretely (besides synchronization and such) the differences between StringBuffer and StringBuilder. I replaced "StringBuffer" with "StringBuilder" in <code>StringBuffer.java</code> and then <code>diff</code>ed them. The subsequent confusion led to an interesting discovery.
 

@@ -2,7 +2,7 @@
 layout: post
 title: The Law of Conservation of Procrastination
 created: 1257360413
-categories: funny
+tags: funny
 ---
 Similar to the law of conservation of energy and mass, there's another universal law just as applicable--to students.
 

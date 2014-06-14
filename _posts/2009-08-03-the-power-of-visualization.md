@@ -2,7 +2,7 @@
 layout: post
 title: The Power of Visualization
 created: 1249284776
-categories: visualization work
+tags: visualization work
 ---
 This Sunday I went to my office and prototyped something that has little to do with my assignment. I created a very basic visualization tool that processes the standard output of the job scheduler of our distributed storage and computational platform (Cosmos) and produces a clean graph that shows exactly how a job is executed--on which machines, in which stages, and later on, at what times.
 

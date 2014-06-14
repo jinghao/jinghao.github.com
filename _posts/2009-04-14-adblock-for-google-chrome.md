@@ -2,7 +2,7 @@
 layout: post
 title: AdBlock for Google Chrome
 created: 1239767409
-categories: programming
+tags: programming
 ---
 The one major problem with Chrome is that, unlike Mozilla Firefox, it is backed by a gigantic corporation whose goal is to maximize return to shareholders. Despite its performance and design advantages, it misses many of the advantages of being a community-developed software, including extensibility.
 

@@ -2,7 +2,7 @@
 layout: post
 title: The Return of Hubris to Germany
 created: 1281810584
-categories: economy germany
+tags: economy germany
 ---
 The NYT ran an [article](http://www.nytimes.com/2010/08/14/world/europe/14germany.html) testifying to Germany's successes in managing the downturn, and their consequent pride in getting the "right economic model".
 

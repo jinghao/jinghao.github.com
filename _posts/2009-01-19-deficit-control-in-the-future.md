@@ -2,7 +2,7 @@
 layout: post
 title: Deficit Control in the Future
 created: 1232389605
-categories: politics economy finance
+tags: politics economy finance
 ---
 Let's take the following assumptions as given:
 

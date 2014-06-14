@@ -2,7 +2,7 @@
 layout: post
 title: Taxes--We Can Do Better
 created: 1238113967
-categories: taxes random politics economics
+tags: taxes random politics economics
 ---
 This is the first year I have to file my taxes separately and I have already made the observation most Americans made the second after installing TurboTax: Taxes are annoying. We hate filing just as much as paying the actual money. There must be a better way of doing this.
 

@@ -2,7 +2,7 @@
 layout: post
 title: First Step in the Right Direction
 created: 1228844997
-categories: wtf funny black bird
+tags: wtf funny black bird
 ---
 **Complaint:**
 

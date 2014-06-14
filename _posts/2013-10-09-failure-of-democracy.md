@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Failure of the American Democracy
-categories: [economics, politics, government]
+tags: [economics, politics, government]
 ---
 I don't consider myself a political person. I can't vote, nor do I want to make the effort to obtain that right. But I feel compelled to say a word about the failure of the US government as demonstrated by the political disarray over the past couple weeks as well as the factional trench warfare over the past few years.
 

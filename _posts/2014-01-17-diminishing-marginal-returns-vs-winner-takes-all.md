@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Diminishing Marginal Returns vs. Winner-Takes-All Markets
-categories: [economics, income, career]
+tags: [economics, income, career]
 ---
 The advent of the global economy has brought about unprecedented scale and opportunities for the best to grab a much larger market, resulting in substantial growth in the wealth and power at the top. 
 

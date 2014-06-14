@@ -2,7 +2,7 @@
 layout: post
 title: 'Apples to Apples: "Sultry"'
 created: 1237092933
-categories: random
+tags: random
 ---
 I was playing Apples to Apples with a bunch of people today as part of the "Pi Day Celebrations" and it was my turn to be the judge, and the adjective (the green card) was "sultry."
 

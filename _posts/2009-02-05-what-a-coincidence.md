@@ -2,7 +2,7 @@
 layout: post
 title: What a Coincidence!
 created: 1233906506
-categories: random funny
+tags: random funny
 ---
 The two main characters in a book I'm supposed to be reading for English (*American Psycho*) are named Patrick and Timothy. Coincidentally my two roommates share their names with those two obsessive-compulsive maniac-murderers. (Patrick also eats dead and rapes corpses) Should I be concerned?
 

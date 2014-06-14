@@ -2,7 +2,7 @@
 layout: post
 title: Bitches Got Owned
 created: 1237564305
-categories: politics economy finance
+tags: politics economy finance
 ---
 From the New York Times:
 

@@ -2,7 +2,7 @@
 layout: post
 title: If I Designed the Stimulus Package...
 created: 1247024886
-categories: stimulus package economics politics
+tags: stimulus package economics politics
 ---
 It would be:
 

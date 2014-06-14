@@ -2,7 +2,7 @@
 layout: post
 title: 'The Poison Pill of International Trade: Protectionism'
 created: 1234823258
-categories: business finance economy politics
+tags: business finance economy politics
 ---
 Pelosi denies that the stimulus bill is a cry for protectionism, even though it stipulates that everything must be contracted out to domestic suppliers. She asserts that "we want \[the people\] to be assured that we're looking out for their interest as we look to grow the U.S. economy." She then asserts, "I don't think that's protectionism." How is she looking out for "their interests" by "protecting" them from foreign suppliers? What she described is the definition of protectionism, and we mustn't fall prey to that selfish, ignorance-derived mentality.
 

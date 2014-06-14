@@ -2,7 +2,7 @@
 layout: post
 title: Formalization of an Informal Assignment
 created: 1239498090
-categories: school
+tags: school
 ---
 I have to write a six page paper by Monday to answer the following prompt:
 

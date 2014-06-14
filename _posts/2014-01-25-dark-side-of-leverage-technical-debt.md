@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Financial Leverage: An Allegory for Technical Debt"
-categories: [finance, software, engineering, debt]
+tags: [finance, software, engineering, debt]
 ---
 __You're the CEO of a young company__, and discover what appears to be a rare opportunity. It will require significant investments, but if it pays off, it will propel your company into the ranks of the world elite.
 

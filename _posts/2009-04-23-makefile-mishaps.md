@@ -2,7 +2,7 @@
 layout: post
 title: Makefile Mishaps
 created: 1240540131
-categories: programming programming mishaps
+tags: programming programming mishaps
 ---
 I can't claim to be familiar with Makefiles, but after these mishaps I can confidently assert that I've learned a thing or two about them.
 

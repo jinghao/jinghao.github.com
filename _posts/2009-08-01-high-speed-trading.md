@@ -2,7 +2,7 @@
 layout: post
 title: High Speed Trading
 created: 1249178668
-categories: trading finance
+tags: trading finance
 ---
 The efficient market hypothesis [succumbs](http://www.nytimes.com/2009/07/24/business/24trading.html) to technology. In the time that it takes your request to [your favorite finance portal](http://moneycentral.msn.com/) to reach the local Comcast router, the robotic trading computers have already downloaded the trading histories of the entire market, analyzed them for patterns, created a strategy, and executed thousands of orders.
 

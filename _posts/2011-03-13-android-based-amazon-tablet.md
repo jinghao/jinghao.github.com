@@ -2,7 +2,7 @@
 layout: post
 title: Android-based Amazon Tablet
 created: 1300078603
-categories: tablet android amazon
+tags: tablet android amazon
 ---
 Amid the recent iPad 2 hype, the Wall Street Journal published an [article](http://online.wsj.com/article/SB10001424052748703662804576188901890884360.html) about the Nook Color (from Barnes and Nobles) running Google Android, contending that it provides just the right balance of features for $200, much cheaper the Motorola Xoom (also powered by Android).
 

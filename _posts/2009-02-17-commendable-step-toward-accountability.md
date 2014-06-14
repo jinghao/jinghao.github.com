@@ -2,7 +2,7 @@
 layout: post
 title: Commendable Step Toward Accountability
 created: 1234928052
-categories: random politics
+tags: random politics
 ---
 The US Federal Government made a commendable step toward full accountability for its whole stimulus package with the new website (http://www.recovery.gov) which details where each dollar is spent and the estimated effects of each dollar, such as in terms of job creation.
 

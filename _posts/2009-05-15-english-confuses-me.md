@@ -2,7 +2,7 @@
 layout: post
 title: English Confuses Me
 created: 1242421442
-categories: random language school
+tags: random language school
 ---
 The question was the following:
 

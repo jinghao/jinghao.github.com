@@ -2,7 +2,7 @@
 layout: post
 title: 'Crowdsourcing: Why?'
 created: 1246139171
-categories: economics business
+tags: economics business
 ---
 After years of diligence and perseverance, multinational team [invented an algorithm](http://bits.blogs.nytimes.com/2009/06/26/and-the-winner-of-the-1-million-netflix-prize-probably-is/?th&emc=th) for movie-recommendation that improves upon Netflix's current algorithm by over 10%, beating the many other teams that vied for the same achievement. But this is all part of a contest: The team that accomplishes the goal (10% improvement in accuracy) and maintains their lead for a month wins one million dollars. The rest have just wasted their time.
 

@@ -2,7 +2,7 @@
 layout: post
 title: How to Win a Zero-Sum Game
 created: 1250059907
-categories: microsoft internet explorer advertisements
+tags: microsoft internet explorer advertisements
 ---
 Every query that Bing successfully answers is one that Google is not getting; it would be too costly to submit the same query on Bing, Yahoo and Google, because ultimately the results are nearly identical in quality. Hence, the Internet Search market is essentially zero-sum.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Second Stimulus? Do It Right
 created: 1247025370
-categories: economics politics stimulus package
+tags: economics politics stimulus package
 ---
 Apparently we are considering a second stimulus package even before the bulk of the first one has taken effect. If [I designed the stimulus package](/posts/if-i-designed-the-stimulus-package) the first time, I would have included $300b of money transfers and the same in cheap credit to states. Because states do not have the borrowing power the federal government does--especially at the dirt-cheap rates that states would love to have, they will be cutting back significantly on services this year while paying significantly more on interest (because increased fears of delinquency), an effect that will surely negate the federal stimulus.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Hatchbacks and Electric/Hybrid Vehicles
 created: 1249232394
-categories: cars hybrids
+tags: cars hybrids
 ---
 Why are the most efficient hybrids (Toyota Prius and Honda Insight) hatchbacks? And why do [entrants to the electric vehicle arena](http://www.reuters.com/article/GCA-GreenBusiness/idUSTRE5710IH20090802) emulate that design? Are they all trying to appear "different" like a Prius?
 

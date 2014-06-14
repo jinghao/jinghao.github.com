@@ -2,7 +2,7 @@
 layout: post
 title: Solid State Drives--The Solution in the Meantime
 created: 1249183538
-categories: technology hardware
+tags: technology hardware
 ---
 The main impediment to the mainstream adoption of sold state drives is that affordability is not matched by capacity and performance. Simply put: Affordable drives lack random-write performance, and high-performance drives are expensive.
 

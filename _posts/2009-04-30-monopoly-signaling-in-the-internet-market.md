@@ -2,7 +2,7 @@
 layout: post
 title: Monopoly Signaling in the Internet Market
 created: 1241075886
-categories: internet economics business
+tags: internet economics business
 ---
 [Comcast told investors](http://www.nytimes.com/2009/04/20/business/20isp.html) that it costs under seven bucks a home to double the capacity of an entire neighborhood (I don't mind paying an upfront cost of $7 to double my Internet speed for the rest of eternity!) and that "the hardware to provide 50-megabits-per-second service costs less than it had been paying for the equipment for 6 megabits per second." (I don't mind getting a free upgrade to 50 mbps Internet!) According to the same article, "JCom, the largest cable company in Japan, sells service as fast as 160 megabits per second for $60 a month." The disparity is clear. The reason is exactly as the article claimed: The lack of competition.
 

@@ -2,7 +2,7 @@
 layout: post
 title: The Long Term Tradeoff of Pursuing Simultaneous Degrees
 created: 1238992095
-categories: personal
+tags: personal
 ---
 I've come to realize the enormous costs of pursuing my simultaneous degrees, not only in direct summer costs (housing, food and summer-session costs), leisure time, and the administrative hassles, but also in academic focus (depth of knowledge) and career development (getting a head start). Granted, there are unquantifiable benefits to my current course of study--breadth of education and the breadth of opportunities and knowledge that follow--but the costs are not negligible.
 

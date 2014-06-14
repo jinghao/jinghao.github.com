@@ -2,7 +2,7 @@
 layout: post
 title: 'CS 61C Project 2: Three Mistakes That Cost 5 Hours'
 created: 1237913971
-categories: school programming programming mishaps
+tags: school programming programming mishaps
 ---
 Three things, one directly my fault and the other two not, caused me to waste eight otherwise-productive hours on the second project. You'll see how ridiculous those three things are.
 

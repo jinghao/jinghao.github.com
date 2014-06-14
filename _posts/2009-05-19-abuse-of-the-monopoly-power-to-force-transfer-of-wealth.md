@@ -2,7 +2,7 @@
 layout: post
 title: Abuse of the Monopoly Power to Force Transfer of Wealth
 created: 1242797542
-categories: monopoly economics school politics
+tags: monopoly economics school politics
 ---
 Last week, I discussed the [immense leverage the higher education systems have with regards to pricing](http://dailycow.org/node/511). This week I will cover how UC Berkeley is abusing its monopoly power.
 

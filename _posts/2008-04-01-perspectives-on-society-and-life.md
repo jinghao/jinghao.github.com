@@ -2,7 +2,7 @@
 layout: post
 title: Perspectives on Society and Life
 created: 1207114401
-categories: religion mathematics economics life philosophy
+tags: religion mathematics economics life philosophy
 ---
 Religion, economics, mathematics and philosophy are just different perspectives on society and life. Although I have not discovered how I fit into the first perspective, the influences that latter three have had on me are obvious and many.
 

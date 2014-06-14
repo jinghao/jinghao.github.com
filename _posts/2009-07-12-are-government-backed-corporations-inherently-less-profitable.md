@@ -2,7 +2,7 @@
 layout: post
 title: Are Government-Backed Corporations Inherently Less Profitable?
 created: 1247428004
-categories: politics government economics
+tags: politics government economics
 ---
 The popular attack of government-backed enterprises is that it encourages inefficiency and takes the enterprise's focus off of profit. Is that true?
 

@@ -2,7 +2,7 @@
 layout: post
 title: Why This Recovery is Good for the Long Run
 created: 1259866430
-categories: economics employment
+tags: economics employment
 ---
 In the previous article, I briefly laid out the case for a jobless recovery in the short run. However, despite the immediate pain, it has positive long-term consequences.
 

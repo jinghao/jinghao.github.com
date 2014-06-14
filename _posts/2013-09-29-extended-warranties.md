@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Framework for Evaluating Extended Warranties
-categories: [warranties, insurance, finance, economics]
+tags: [warranties, insurance, finance, economics]
 ---
 In the summer of 2011 when I bought my first car from the Toyota dealership, the dealer pressured me to buy an extended warranty on my 2011 Corolla S. It would cover my car for four years and some number of miles (forgot the details) after the manufacturer warranty expired.
 

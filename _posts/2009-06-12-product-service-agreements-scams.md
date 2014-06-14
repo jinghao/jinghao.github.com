@@ -2,7 +2,7 @@
 layout: post
 title: 'Product "Service Agreements": Scams'
 created: 1244876001
-categories: random
+tags: random
 ---
 You know when you're buying those 300 dollar stereos and the salesman tries to sell you a 50 dollar service agreement--so if it breaks they will fix or replace it? Have you ever purchased the offer before?
 

@@ -2,7 +2,7 @@
 layout: post
 title: The Economics and Politics of Climate Change
 created: 1271022054
-categories: environment economics climate
+tags: environment economics climate
 ---
 Here is an excerpt from a [superb article by Paul Krugman](http://www.nytimes.com/2010/04/11/magazine/11Economy-t.html), highlighting the hypocrisy and misinformation of the critics:
 

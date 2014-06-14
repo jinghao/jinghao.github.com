@@ -2,7 +2,7 @@
 layout: post
 title: Consolidation in the Drug Industry
 created: 1233363794
-categories: business economics finance politics
+tags: business economics finance politics
 ---
 As have occurred frequently in the past decades, massive industry consolidation in the drug industry is preparing to take shape. Responding to lower acquisition costs (stock prices of companies are lower) and the need to continue revenue growth, industry leaders in bio-technology and drugs are buying out their competition.
 

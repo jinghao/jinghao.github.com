@@ -2,7 +2,7 @@
 layout: post
 title: I Want My Sleep Too
 created: 1239206867
-categories: random
+tags: random
 ---
 Hello neighbors above,
 

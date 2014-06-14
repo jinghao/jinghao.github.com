@@ -2,7 +2,7 @@
 layout: post
 title: The Value of Life as a Terminally Ill Patient
 created: 1248035149
-categories: politics health care
+tags: politics health care
 ---
 A [NYT article](http://www.nytimes.com/2009/07/19/magazine/19healthcare-t.html) makes the seemingly-outrageous but completely rational assertion that the value of life, especially of a terminally ill victim of bad health, is finite. Why should healthy Americans have to pay several times more than their peers in Europe or Japan to be *less* healthy? Why are we paying tens of thousands to extend the life of a suffering cancer victim when we can't afford hundreds to immunize children against the cheapest-to-prevent, yet most contagious and deadliest, issues like the flu?
 

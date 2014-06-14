@@ -2,7 +2,7 @@
 layout: post
 title: The Legacy of Bush Junior
 created: 1232580094
-categories: politics
+tags: politics
 ---
 Marc Thiessen, Mr. Bush's speechwriter, [asserts](http://online.wsj.com/article/SB123241445616196157.html) that, in a few years, #43 will be remembered as fondly as Truman is, noting that "Mr. Bush increased defense spending by nearly 73%, the largest increase since the Truman administration." He attempts to justify the failures in the previous administration by claiming that "Mr. Bush often told his staff that a president's job is not to chase popularity, but to do what is right"--not to do what the populace elected him to do, but to satisfy his own agenda.
 

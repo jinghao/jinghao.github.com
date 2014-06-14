@@ -2,7 +2,7 @@
 layout: post
 title: Everlasting Cell Phones
 created: 1245479323
-categories: inventions electronics
+tags: inventions electronics
 ---
 Nope, I don't mean the <a href='http://tech.yahoo.com/blogs/null/143945'>ones Nokia is purportedly developing</a> that converts ambient radio waves into electrical energy (basically a solar cell for wider range of frequencies). That's a terrible idea. I mean something even simpler.
 

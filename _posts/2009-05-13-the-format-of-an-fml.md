@@ -2,7 +2,7 @@
 layout: post
 title: The Format of an FML
 created: 1242275661
-categories: random
+tags: random
 ---
 _Today_, \[something happened\]. Then, _I realized that / turns out_ \[what I said in the previous sentence is a lie\] / _I proceeded to_ \[do something extremely tragic\]. \[Fragment of WTF-ness\]. _FML_
 

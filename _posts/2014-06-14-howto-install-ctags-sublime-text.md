@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to install CTags on Sublime Text"
-categories: [sublime-text, ctags, how-to, "Mac OSX"]
+tags: [sublime-text, ctags, how-to, "Mac OSX"]
 ---
 CTags is a program that generates an index of tokens (i.e. function names and other identifiers). By integrating it into Sublime Text, you can enable quick navigate-to-symbol.
 

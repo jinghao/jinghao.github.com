@@ -2,7 +2,7 @@
 layout: post
 title: Misuse of "Stack"
 created: 1239471233
-categories: programming
+tags: programming
 ---
 [In a BusinessWeek article](http://www.businessweek.com/innovate/content/apr2009/id2009048_138177.htm), various technology company CEOs contend that patent reform is necessary to preserve American innovation, and that due to the large backlog of applications, all the applications will take at least two years to process with the current staff. Because of that, the article claims that "700,000 \[applications\] are just sitting in a stack."
 
