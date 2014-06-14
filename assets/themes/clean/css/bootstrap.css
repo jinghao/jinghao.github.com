@@ -1331,7 +1331,7 @@ legend + .control-group {
 @media (max-width: 480px) {
   .navbar .brand {
     font-size: 16px;
-    padding: 10px 0 10px 12px;
+    padding: 9px 0 9px 12px;
   }
   .about-author {
     font-size: 12px;
