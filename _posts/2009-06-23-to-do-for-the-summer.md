@@ -11,7 +11,7 @@ If I intend to accomplish anything this summer, I need to make it into a list:
 1. Complete my Facebook application (40%)
 1. Complete/pass all of the Facebook puzzles (5%)
 1. Read through the 1000 page corporate finance textbook (10%)
-1. <div onclick="this.innerHTML='Complete Pokemon Ruby (Need to find Latios!)'">If you click here, the world will explode</div> (99%)
+1. <span onclick="this.innerHTML='Complete Pokemon Ruby (Need to find Latios!)'">If you click here, the world will explode.</span> (99%)
 1. Swim at least twice a week (100% so far)
 1. Get my bike fixed. (100%)
 1. At the end of the summer, update my resume
