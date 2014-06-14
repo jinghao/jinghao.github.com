@@ -1305,7 +1305,7 @@ legend + .control-group {
    */
   div.about-author {
     margin: 0;
-    padding: 0 1em;
+    padding: 0 .5em;
     text-align: left;
     margin-bottom: 1.5em;
   }
@@ -1317,7 +1317,7 @@ legend + .control-group {
   
   .about-author li {
     float: left;
-    padding-right: 1em;
+    padding-right: .5em;
   }
 
   div.about-author hr {
@@ -1335,7 +1335,7 @@ legend + .control-group {
   }
   body {
     font-size: 12px;
-    line-height: 14px;
+    line-height: 16px;
   }
   .page-header h1 small {
     display: block;
