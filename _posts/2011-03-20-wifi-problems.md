@@ -66,7 +66,7 @@ Reply from 74.125.225.19: bytes=32 time=86ms TTL=53
 Request timed out.
 Reply from 74.125.225.19: bytes=32 time=66ms TTL=53</pre>
 
-As you can see, half of the ping requests don't finish. Normally this would be a sign of congested airspace, but of the five devices connected to the router, <strong>mine is the only one having such problems</strong>--others are still buzzing along just fine. As a result, I have to plug in my Ethernet cable.
+As you can see, half of the ping requests don't finish. Normally this would be a sign of congested airspace, but of the five devices connected to the router, **mine is the only one having such problems**--others are still buzzing along just fine. As a result, I have to plug in my Ethernet cable.
 
 I've been trying to fix this issue since last night because being forced to sit at most five feet away from the router is too uncomfortable. I uninstalled the only thing I installed in between when the wireless worked, and when it stopped working (A software for a print server, which surprisingly didn't work). I tried restarting numerous times. I tried disabling and re-enabling my wireless adapter. I tried to disable my firewall/adjust settings.
 

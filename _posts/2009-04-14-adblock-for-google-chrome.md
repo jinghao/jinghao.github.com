@@ -12,6 +12,6 @@ Because Chrome does not yet have a fully-functional extension system, everything
 
 Bonus feature: Configure your exceptions list by following the instructions at the end of the installation.
 
-**CliffsNotes Edition:** Just [download the installation file (click here)](/uploads/AdBlockforChrome.exe), run it, and follow the brief instructions at the end to enjoy ad-free browsing. Have fun! (Obviously this works only on Windows) Note: You MUST <strong>update and close</strong> Google Chrome before installing this.
+**CliffsNotes Edition:** Just [download the installation file (click here)](/uploads/AdBlockforChrome.exe), run it, and follow the brief instructions at the end to enjoy ad-free browsing. Have fun! (Obviously this works only on Windows) Note: You MUST **update and close** Google Chrome before installing this.
 
 If you like this, please [Digg it](http://digg.com/software/AdBlock_for_Google_Chrome_5) and share it with your friends.

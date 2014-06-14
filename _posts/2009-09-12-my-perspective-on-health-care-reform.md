@@ -20,6 +20,6 @@ And to mitigate the common fear that this would drive the incremental direct cos
 
 Ultimately, the author offers us a vision of what America's health care system could be--efficient, affordable, and competitive:
 
-> Today, insurance covers almost all health-care expenditures. The few consumers who pay from their pockets are simply an afterthought for most providers. Imagine how things might change if more people were buying their health care the way they buy anything else. I’m certain that all the obfuscation over prices would vanish pretty quickly, and that we’d see an end to unreadable bills. <strong>And that physicians, who spend an enormous amount of time on insurance-related paperwork, would have more time for patients</strong>.
+> Today, insurance covers almost all health-care expenditures. The few consumers who pay from their pockets are simply an afterthought for most providers. Imagine how things might change if more people were buying their health care the way they buy anything else. I’m certain that all the obfuscation over prices would vanish pretty quickly, and that we’d see an end to unreadable bills. **And that physicians, who spend an enormous amount of time on insurance-related paperwork, would have more time for patients**.
 
 I hope you find the time to read the essay. It deserves an hour of everyone's time. In order to ensure that this essay remains available even if the original source has removed it, I've attached a full [PDF-print out](/uploads/HealthCareDavidGoldhill.pdf) for your convenience.

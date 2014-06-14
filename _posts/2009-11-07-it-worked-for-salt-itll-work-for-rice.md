@@ -10,9 +10,9 @@ It costs less than a dollar to fortify an entire ton of rice with essential nutr
 
 So why don't developing nations invest in such a project? It has three options:
 
-1. <strong>Pay for it:</strong> Distribute fortification materials to farmers, or expand the ambitions of agriculture research labs, and distribute engineered seeds. For the few hundreds of millions of dollars spent annually, more than that will be earned back in increased productivity (captured in taxes), better health (captured in lower health costs and higher happiness), and political points (for the democracies). This is the preferred option
-1. <strong>Force it:</strong> By law, all rice has to be fortified. This has enforcement issues. Since farmers aren't paid to do it, they have no incentive to pay to do it themselves.
-1. <strong>Hope for external help:</strong> This isn't exactly a complete option--but hope for help from an agency like the IMF or WFP--and simply deal with enforcement
+1. **Pay for it:** Distribute fortification materials to farmers, or expand the ambitions of agriculture research labs, and distribute engineered seeds. For the few hundreds of millions of dollars spent annually, more than that will be earned back in increased productivity (captured in taxes), better health (captured in lower health costs and higher happiness), and political points (for the democracies). This is the preferred option
+1. **Force it:** By law, all rice has to be fortified. This has enforcement issues. Since farmers aren't paid to do it, they have no incentive to pay to do it themselves.
+1. **Hope for external help:** This isn't exactly a complete option--but hope for help from an agency like the IMF or WFP--and simply deal with enforcement
 
 Each idea has issues with centralization, because farmers aren't as concentrated as salt-producers, but if implemented correctly, will provide tangible returns ad infinitum. So why not give it a try?
 

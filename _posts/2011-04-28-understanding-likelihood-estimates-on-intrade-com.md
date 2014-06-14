@@ -18,12 +18,12 @@ The second fact reveals an interesting fact about the beliefs of people on Intra
 <tr><td>Pawlenty</td><td>16.3%</td><td>5.5%</td><td>33.7%</td></tr>
 <tr><td>Mitch Daniels</td><td>9.6%</td><td>4.5%</td><td>46.9%</td></tr>
 <tr><td>Huckabee</td><td>7.8%</td><td>2.7%</td><td>34.6%</td></tr>
-<tr><td><strong>Trump</strong></td><td>8.5%</td><td>5.7%</td><td><strong>67.1%</strong></td></tr>
+<tr><td>**Trump**</td><td>8.5%</td><td>5.7%</td><td>**67.1%**</td></tr>
 <tr><td>Bachmann</td><td>6.3%</td><td>1.4%</td><td>22.2%</td></tr>
 <tr><td>Huntsman</td><td>5.3%</td><td>2.1%</td><td>39.6%</td></tr>
 <tr><td>Palin</td><td>5.0%</td><td>1.7%</td><td>34.0%</td></tr>
-<tr><td><strong>Gingrich</strong></td><td>2.7%</td><td>1.8%</td><td><strong>66.7%</strong></td></tr>
-<tr><td><strong>Ron Paul</strong></td><td>2.8%</td><td>2.2%</td><td><strong>78.6%</strong></td></tr>
+<tr><td>**Gingrich**</td><td>2.7%</td><td>1.8%</td><td>**66.7%**</td></tr>
+<tr><td>**Ron Paul**</td><td>2.8%</td><td>2.2%</td><td>**78.6%**</td></tr>
 </table>
 
 Interestingly, we see that the implicit belief is that among the Republican candidates, only Gingrich, Ron Paul and Trump have a good chance of defeating President Obama. Does that fit with your intuition?

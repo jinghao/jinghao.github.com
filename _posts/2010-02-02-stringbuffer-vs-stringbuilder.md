@@ -8,14 +8,14 @@ I'm doing some research work that involves heavy work with the Java string class
 
 Before I go there, here's a brief summary for those of you with modest Java experience: StringBuilder is similar to StringBuffer in that it can be used to dynamically build strings of indeterminate length. The main difference is that StringBuilder, which came later (Java 1.5), is not synchronized (meaning that multiple threads could cause objects to act unexpectedly--a risk that pays for some level of performance), unlike StringBuffer. But since I was dealing with them at the code level, I needed to know more deeply where they differ.
 
-Back to the topic: Check out the following excerpts from <strong>StringBuilder.java</strong>:
+Back to the topic: Check out the following excerpts from **StringBuilder.java**:
 
 The constructor:
 
     /**
-     * Constructs a <strong>new StringBuffer</strong> using the default capacity.
+     * Constructs a **new StringBuffer** using the default capacity.
      */
-    public <strong>StringBuilder</strong>() {
+    public **StringBuilder**() {
     	this(INITIAL_SIZE);
     }
 
@@ -23,7 +23,7 @@ A normal method copied from StringBuffer:
 
     /**
      * Optionally modify the underlying char array to only
-     * be large enough to hold the characters in <strong>this StringBuffer</strong>.
+     * be large enough to hold the characters in **this StringBuffer**.
      */
     public void trimToSize() {
     	if (!shared && value.length != count) {
@@ -36,12 +36,12 @@ A normal method copied from StringBuffer:
 Another method copied directly from StringBuffer:
 
     /**
-     * Adds the specified code point to the end of <strong>this StringBuffer</strong>.
+     * Adds the specified code point to the end of **this StringBuffer**.
      *
      * @param		codePoint	the code point
-     * @return		<strong>this StringBuffer</strong>
+     * @return		**this StringBuffer**
      */
-    public <strong>StringBuilder</strong> appendCodePoint(int codePoint) {
+    public **StringBuilder** appendCodePoint(int codePoint) {
     	if (codePoint >= 0) {
     		if (codePoint < 0x10000) {
     			return append((char)codePoint);
