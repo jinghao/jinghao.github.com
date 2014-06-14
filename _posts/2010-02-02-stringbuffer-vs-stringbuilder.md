@@ -6,9 +6,9 @@ categories: software programming java
 ---
 I'm doing some research work that involves heavy work with the Java string classes (I have IBM Java), and I was trying to determine concretely (besides synchronization and such) the differences between StringBuffer and StringBuilder. I replaced "StringBuffer" with "StringBuilder" in <code>StringBuffer.java</code> and then <code>diff</code>ed them. The subsequent confusion led to an interesting discovery.
 
-Before I go there, here's a brief summary for those of you with modest Java experience: StringBuilder is similar to StringBuffer in that it can be used to dynamically build strings of indeterminate length. The main difference is that StringBuilder, which came later (Java 1.5), is not synchronized (meaning that multiple threads could cause objects to act unexpectedly--a risk that pays for some level of performance), unlike StringBuffer. But since I was dealing with them at the code level, I needed to know more deeply where they differ.
+Before I go there, here's a brief summary for those of you with modest Java experience: `StringBuilder` is similar to `StringBuffer` in that it can be used to dynamically build strings of indeterminate length. The main difference is that `StringBuilder`, which came later (Java 1.5), is not synchronized (meaning that multiple threads could cause objects to act unexpectedly--a risk that pays for some level of performance), unlike `StringBuffer`. But since I was dealing with them at the code level, I needed to know more deeply where they differ.
 
-Back to the topic: Check out the following excerpts from **StringBuilder.java**:
+Back to the topic: Check out the following excerpts from **`StringBuilder.java`**:
 
 The constructor:
 
