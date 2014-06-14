@@ -12,7 +12,7 @@ The world is full of examples of such abuses:
 * AT&T recently started enforcing its tethering rules with its customers. Unhappy customers are encouraged to "vote with their dollars," but where and how? Competitors are not much better, and the flight of a single customer is not going to make a difference.
 * A Congressperson from a certain state obtains funding for a pet project in his home state that will increase welfare by a fifth of the cost of the project (but that's OK for him, because the costs are borne by other states!)
 
-What remedies are there to this problem? For one, the <em>threat</em> of class action lawsuits have some effect on dissuading some, but only in cases of legal wrongs. Even then, the benefit for the plaintiff (and his lawyers) is lower than the costs of the incumbent system.
+What remedies are there to this problem? For one, the *threat* of class action lawsuits have some effect on dissuading some, but only in cases of legal wrongs. Even then, the benefit for the plaintiff (and his lawyers) is lower than the costs of the incumbent system.
 
 Other remedies are impractical in our system: The problem is with the nature of politics to favor groups. Asking Senators to stop picking favorites is hard. A solution would require structural changes to our legislative body so that no individual has an incentive to favor his own region at the expense of the nation.
 

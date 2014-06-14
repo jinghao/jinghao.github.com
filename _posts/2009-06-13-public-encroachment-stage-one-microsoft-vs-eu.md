@@ -12,6 +12,6 @@ Punishing a company from leveraging its competitive advantage is like punishing 
 
 Obviously there's a non-business reason behind the EU's aggressive pursuit of Microsoft. [It needs the money](http://dailycow.org/node/512). It is effectively forcing each working American to "donate" 100 bucks to Europe.
 
-Europe must stop its abuse of foreign companies. It's forcing companies like Microsoft into dangerous directions where there will no longer be software <em>suites</em> or packages, just single-function programs that are completely non-uniform and disintegrated. 
+Europe must stop its abuse of foreign companies. It's forcing companies like Microsoft into dangerous directions where there will no longer be software *suites* or packages, just single-function programs that are completely non-uniform and disintegrated. 
 
 What do you say to that?

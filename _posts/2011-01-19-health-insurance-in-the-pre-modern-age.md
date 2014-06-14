@@ -8,7 +8,7 @@ The [recent development regarding Obama's health care legislation](http://www.gu
 
 A few days ago, I pulled a muscle playing Kinect too intensely. I wasn't aware that I had actually injured something (I thought it was a minor, temporary thing), so I exacerbated the problem by stretching it out too much (through various exercises like pull-ups). The problem became worse yesterday due to a day full of classes (8 am to 5 pm), half of which were too full to have seats. By last night, even lifting a cup became unbearably painful.
 
-Hospitals were far away, and it was late. And plus, it wasn't <em>that</em> severe. But I needed help, and I knew it.
+Hospitals were far away, and it was late. And plus, it wasn't *that* severe. But I needed help, and I knew it.
 
 Thankfully, Tricia was nearby and helped me out yesterday and today. Walking out to pick up food and purchase a heat pack would have been too painful to bear.
 

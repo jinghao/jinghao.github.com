@@ -18,7 +18,7 @@ If I intend to accomplish anything this summer, I need to make it into a list:
 
 Things I will work on in the summer:
 
-1. <em>Sharpen</em> (ahem) my C sharp skills: Build some useful windows form applications
+1. *Sharpen* (ahem) my C sharp skills: Build some useful windows form applications
 1. Learn ASP.NET -- should not be too difficult given #1
 1. Learn to cook more things, cook them better and more efficiently
 1. Read at least half of the books I've received in my first three weeks. That would be two of four

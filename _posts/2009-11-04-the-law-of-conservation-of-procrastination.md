@@ -12,4 +12,4 @@ Not to mention, Reddit has been slowly creeping into my procrastination arsenal 
 
 So all in all, blocking one means of procrastination won't help. You'll just find that an even worse means of procrastination comes into being. Therefore, I propose a new universal law--that of the conservation of procrastination.
 
-Because the only way you'll procrastinate less is if your peers procrastinate more. (<em>*shakes fist at Courtney*</em> for getting me into Reddit) By the way, for the rest of you, be sure to frequent the websites I mentioned up there!
+Because the only way you'll procrastinate less is if your peers procrastinate more. (**shakes fist at Courtney** for getting me into Reddit) By the way, for the rest of you, be sure to frequent the websites I mentioned up there!
