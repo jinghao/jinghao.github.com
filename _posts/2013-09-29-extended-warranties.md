@@ -18,3 +18,5 @@ Weeks later when I reflected upon that decision, I realized I made a few mistake
 * If I decide to part with my car, the buyers may not appreciate the value of the extended warranty as much, perhaps for the reason above.
 
 When I purchase my next car, I will probably not buy an extended warranty from the dealer unless I (1) plan to drive a lot, but still under their limits, (2) have the opportunity to understand and evaluate the offer, and (3) expect to keep the car for a long time.
+
+For a perspective from early 2009, see [Extended Warranties](/posts/extended-warranties-they-dont-make-sense).
