@@ -1233,7 +1233,7 @@ legend + .control-group {
 }
 
 .about-author p {
-  color: #aaa;
+  color: #999;
   font-size: 85%;
   margin: .5em 0;
 }
@@ -1330,7 +1330,7 @@ legend + .control-group {
 }
 @media (max-width: 480px) {
   .navbar .brand {
-    font-size: 14px;
+    font-size: 16px;
     padding: 10px 0 10px 12px;
   }
   .about-author {
