@@ -1335,6 +1335,7 @@ legend + .control-group {
   }
   body {
     font-size: 12px;
+    line-height: 14px;
   }
   .page-header h1 small {
     display: block;
