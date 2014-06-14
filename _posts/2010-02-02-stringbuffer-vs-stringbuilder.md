@@ -13,50 +13,50 @@ Back to the topic: Check out the following excerpts from **StringBuilder.java**:
 The constructor:
 
     /**
-     * Constructs a **new StringBuffer** using the default capacity.
+     * Constructs a new StringBuffer using the default capacity.
      */
-    public **StringBuilder**() {
-    	this(INITIAL_SIZE);
+    public StringBuilder() {
+      this(INITIAL_SIZE);
     }
 
 A normal method copied from StringBuffer:
 
     /**
      * Optionally modify the underlying char array to only
-     * be large enough to hold the characters in **this StringBuffer**.
+     * be large enough to hold the characters in this StringBuffer.
      */
     public void trimToSize() {
-    	if (!shared && value.length != count) {
-    		char[] newValue = new char[count];
-    		System.arraycopy(value, 0, newValue, 0, count);
-    		value = newValue;
-    	}
+      if (!shared && value.length != count) {
+        char[] newValue = new char[count];
+        System.arraycopy(value, 0, newValue, 0, count);
+        value = newValue;
+      }
     }
 
 Another method copied directly from StringBuffer:
 
     /**
-     * Adds the specified code point to the end of **this StringBuffer**.
+     * Adds the specified code point to the end of this StringBuffer.
      *
-     * @param		codePoint	the code point
-     * @return		**this StringBuffer**
+     * @param   codePoint the code point
+     * @return    this StringBuffer
      */
-    public **StringBuilder** appendCodePoint(int codePoint) {
-    	if (codePoint >= 0) {
-    		if (codePoint < 0x10000) {
-    			return append((char)codePoint);
-    		} else if (codePoint < 0x110000) {
-    			if (count + 2 > value.length) {
-    				ensureCapacityImpl(count + 2);
-    			}
-    			codePoint -= 0x10000;
-    			value[count] = (char)(0xd800 + (codePoint >> 10));
-    			value[count+1] = (char)(0xdc00 + (codePoint & 0x3ff));
-    			count += 2;
-    			return this;
-    		}
-    	}
-    	throw new IllegalArgumentException();
+    public StringBuilder appendCodePoint(int codePoint) {
+      if (codePoint >= 0) {
+        if (codePoint < 0x10000) {
+          return append((char)codePoint);
+        } else if (codePoint < 0x110000) {
+          if (count + 2 > value.length) {
+            ensureCapacityImpl(count + 2);
+          }
+          codePoint -= 0x10000;
+          value[count] = (char)(0xd800 + (codePoint >> 10));
+          value[count+1] = (char)(0xdc00 + (codePoint & 0x3ff));
+          count += 2;
+          return this;
+        }
+      }
+      throw new IllegalArgumentException();
     }
 
 If it's not apparent yet, what's clear is that the authors of IBM Java 5 copied-and-pasted StringBuffer into StringBuilder--word for word, including comments--and changed some variable names until the red underlines (from syntax errors) disappeared, and forgot about the comments.
