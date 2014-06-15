@@ -100,7 +100,7 @@ img {
   abbr[title]:after {
     content: " (" attr(title) ")";
   }
-  .ir a:after,
+  /* No need for these dynamic links when printing */
   a[href^="javascript:"]:after,
   a[href^="#"]:after {
     content: "";
@@ -219,12 +219,6 @@ a:focus {
 }
 p {
   margin: 0 0 10px;
-}
-.lead {
-  margin-bottom: 20px;
-  font-size: 21px;
-  font-weight: 200;
-  line-height: 30px;
 }
 small {
   font-size: 85%;
@@ -518,7 +512,6 @@ legend small {
   min-height: 40px;
   background-color: #fafafa;
   background-repeat: repeat-x;
-
   border: 1px solid #d4d4d4;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
   *zoom: 1;
@@ -542,12 +535,6 @@ legend small {
 .navbar .brand:hover,
 .navbar .brand:focus {
   text-decoration: none;
-}
-.navbar .divider-vertical {
-  height: 40px;
-  margin: 0 9px;
-  border-left: 1px solid #f2f2f2;
-  border-right: 1px solid #ffffff;
 }
 .navbar .nav {
   position: relative;
@@ -578,9 +565,6 @@ legend small {
   color: #555555;
   text-decoration: none;
   background-color: #e5e5e5;
-  -webkit-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
-  -moz-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
-  box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
 }
 .navbar-inverse .navbar-inner {
   background-color: #1b1b1b;
@@ -611,10 +595,6 @@ legend small {
   color: #ffffff;
   background-color: #111111;
 }
-.navbar-inverse .divider-vertical {
-  border-left-color: #111111;
-  border-right-color: #222222;
-}
 .pagination {
   margin: 20px 0;
 }
@@ -629,9 +609,6 @@ legend small {
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
-  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
-  -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
 }
 .pagination ul > li {
   display: inline;
