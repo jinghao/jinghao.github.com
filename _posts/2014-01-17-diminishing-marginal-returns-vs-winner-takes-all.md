@@ -25,6 +25,6 @@ So how do you position yourself in the latter zone when startups don't have enou
 
 There is a currency that you acquire through working with people that's a lot more valuable in the long term than the pay (Unless you're Henrique)--the trust and respect of your colleagues. While it's hard for companies to measure and reward good work, it's recognized by your peers. This is the fuel behind upward momentum. 
 
-An reputable company with the trust of peers of exceptional people is a launchpad, whether to your own company (where you can have immediate leverage because you don't have to start from step 0) or a more leveraged position somewhere else.
+A reputable company with the trust of peers of exceptional people is a launchpad, whether to your own company (where you can have immediate leverage because you don't have to start from step zero) or a more leveraged position somewhere else.
 
 At the end of the day, it's others' expectations of you based on your reputation that determine your opportunities.
