@@ -12,6 +12,7 @@ title : Product Feed
     <g:title>{{ post.title }}</g:title>
     <g:description>{{ post.excerpt | remove: '<p>' | remove: '</p>' | xml_escape }}</g:description>
     <g:link>{{ site.production_url }}{{ post.id }}</g:link>
+    <g:product_type>{{ post.tags | join: ',' }}</g:product_type>
     <!--begin required but useless fields-->
     <g:image_link>http://www.gravatar.com/avatar/065074dd6bbb01a64651ae9572ee40d5.png</g:image_link>
     <g:brand>Example</g:brand>
