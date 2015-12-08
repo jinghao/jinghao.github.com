@@ -35,6 +35,8 @@ author:
 #
 production_url : http://jinghao.me
 
+product_feed_path : product_feed.xml
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
