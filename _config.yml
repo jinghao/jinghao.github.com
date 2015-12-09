@@ -36,6 +36,7 @@ author:
 production_url : http://jinghao.me
 
 product_feed_path : product_feed.xml
+fb_pixel_id : 677964942310595
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
