@@ -9,6 +9,7 @@ title : Product Feed
   {% for post in site.posts %}
   <entry>
     <g:id>{{ post.id }}</g:id>
+    <g:date>{{ post.date | date: "%F"}}</g:date>
     <g:title>{{ post.title }}</g:title>
     <g:description>{{ post.excerpt | remove: '<p>' | remove: '</p>' | xml_escape }}</g:description>
     <g:link>{{ site.production_url }}{{ post.id }}</g:link>
