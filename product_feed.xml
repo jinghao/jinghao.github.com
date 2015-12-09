@@ -15,7 +15,7 @@ title : Product Feed
     <g:link>{{ site.production_url }}{{ post.id }}</g:link>
     <g:product_type>{{ post.tags | join: ',' }}</g:product_type>
     <!--begin required but useless fields-->
-    <g:image_link>http://www.gravatar.com/avatar/065074dd6bbb01a64651ae9572ee40d5.png</g:image_link>
+    <g:image_link>http://www.gravatar.com/avatar/065074dd6bbb01a64651ae9572ee40d5.png?size=600</g:image_link>
     <g:brand>Example</g:brand>
     <g:condition>new</g:condition>
     <g:availability>in stock</g:availability>
