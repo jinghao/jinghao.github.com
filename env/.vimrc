@@ -73,7 +73,7 @@ set nonumber
 :vmap gb :<C-U>!git blame % -L<C-R>=line("'<") <CR>,<C-R>=line("'>") <CR><CR>
 :set guifont=MiscFixed
 
-colorscheme default
+colorscheme desert
 
 " Make curr window 80chars
 set winwidth=80
