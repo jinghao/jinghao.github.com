@@ -1,0 +1,21 @@
+unsetenv SSH_AUTH_SOCK
+setenv SSH_AUTH_SOCK $HOME/.screen/ssh-auth-sock.$HOSTNAME
+
+caption always "%{= kc}%?%-Lw%?%{= kY}%n*%f %t%?(%u)%?%{= kc}%?%+Lw%?"
+bindkey "^[[5D" prev # osx
+bindkey "^[[5C" next
+# ctrl-T to start a new 'tab' (c-a c)
+bindkey "^T" screen
+
+# Uncomment this line to get screen to add lines to xterm's scrollback
+# buffer.  This line tells screen that the following terminals don't have
+# the 'ti' or 'te' capabilities.  (These capabilities inform the terminal
+# that we are starting and ending an application that uses cursor motion.)
+termcapinfo xterm*|xs|rxvt*|Eterm ti@:te@
+
+multiuser on
+screen -t top  0 top
+screen -t shell1 1
+screen -t shell2 2
+
+defscrollback 10000
