@@ -5,5 +5,5 @@ title: jinghao.me
 {% include JB/setup %}
 {% for page in site.posts limit: 5 %}
   {% assign content = page.content %}
-  {% include themes/clean/post-short.html %}
+  {% include themes/{{ THEME_NAME }}/post-short.html %}
 {% endfor %}

@@ -1,3 +1,5 @@
+{% assign THEME_NAME = 'clean' %}
+
 {% capture jbcache %}
   <!--
   - Dynamically set liquid variables for working with URLs/paths
@@ -16,7 +18,7 @@
     {% if site.JB.ASSET_PATH %}
       {% assign ASSET_PATH = site.JB.ASSET_PATH %}
     {% else %}
-      {% capture ASSET_PATH %}{{ BASE_PATH }}/assets/themes/clean{% endcapture %}
+      {% capture ASSET_PATH %}{{ BASE_PATH }}/assets/themes/{{ THEME_NAME }}{% endcapture %}
     {% endif %}  
   {% endif %}
 {% endcapture %}{% assign jbcache = nil %}

@@ -5,7 +5,7 @@ title: jinghao.me
 {% include JB/setup %}
 {% for page in paginator.posts %}
   {% assign content = page.excerpt %}
-  {% include themes/clean/post-short.html %}
+  {% include themes/{{ THEME_NAME }}/post-short.html %}
   {% if page.excerpt != page.content %}
     <a href="{{page.url}}">Read more</a> &middot;
   {% endif %}
