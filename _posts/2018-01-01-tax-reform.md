@@ -31,12 +31,12 @@ Many of the specific changes are not bad. The real problems are in
 
 ### For Businesses
 
-* Reduction in the corporate tax: 3/5. A cut is good because headline corporate rates are high in the US but it was too large.
-* Territorial system of taxation: 4/5. Simpler and more consistent with other countries.
-* Limiting interest deduction to 30% of EBITDA: 4/5. Great direction. Doesn't go far enough. Should eliminate interest deduction completely.
-* Eliminating the corporate Alternative Minimum Tax: 4/5. It's fine to simplify corporate taxes but the bill should've eliminated more corporate deductions to make a corporate AMT not necessary.
-* Creating a 20% deduction for certain pass-through businesses with tangible assets like real estate firms: 2/5. It's just a kickback for certain politicians and further complicates the tax code.
-* Allowing immediate deduction of certain capital investments: 2/5. More corporate giveaways and complications without serious justification.
+* Reduces the corporate tax: 4/5. A cut is good because headline corporate rates are high in the US but it wasn’t paid for by cuts in deductions.
+* Introduces a territorial system of taxation: 4/5. Simpler and more consistent with other countries.
+* Limits interest deduction to 30% of EBITDA: 4/5. Great direction. Doesn't go far enough. Should eliminate interest deduction completely.
+* Eliminates the corporate Alternative Minimum Tax: 4/5. It's fine to simplify corporate taxes but the bill should've eliminated more corporate deductions to make a corporate AMT not necessary.
+* Creates a 20% deduction for certain pass-through businesses with tangible assets like real estate firms: 2/5. It's just a kickback for certain politicians and further complicates the tax code.
+* Allows immediate deduction of certain capital investments: 2/5. More corporate giveaways and complications without serious justification.
 * Creates a discount for repatriating foreign earnings: 2/5. It's a one-time boost and rewards companies for hoarding cash abroad.
 
 ### For Individuals
@@ -49,7 +49,7 @@ Many of the specific changes are not bad. The real problems are in
   2. It eliminates the marriage penalty for most couples if you ignore the deduction limits.
   3. It indexes the brackets to [chained CPI](https://www.washingtonpost.com/news/the-fix/wp/2013/04/10/the-ins-and-outs-of-chained-cpi-explained/) measure of inflation, which more accurately tracks purchasing power because it accounts for substitution effects.
 * Eliminates the personal exemption: 4/5. The child tax credit is a simpler way of "subsidizing" child-raising, although the merit of using tax policy to steer family planning decisions is dubious.
-* Limits mortgage interest deduction (MID) to 750k of principle: 4/5. Good idea in principle. It doesn't go far enough and the transition plan contributes to a liquidity issue. The MID is regressive, expensive and creates many problems. It should be phased out over a number of years (5-15) and should affect all mortgages, not just newly originated ones, because creating two classes of mortgages will lower liquidity for the housing market (mortgage is worth more to the homeowner than to the potential buyer, widening the bid/ask spread).
+* Limits mortgage interest deduction (MID) to 750k of principal: 4/5. Good idea in principle. It doesn't go far enough and the transition plan contributes to a liquidity issue. The MID is regressive, expensive and creates many problems. It should be phased out over a number of years (5-15) and should affect all mortgages, not just newly originated ones, because creating two classes of mortgages will lower liquidity for the housing market (mortgage is worth more to the homeowner than to the potential buyer, widening the bid/ask spread).
 * Eliminates individual mandate for health insurance: 1/5. A terrible clause to sneak into the bill that will cripple health insurance markets in subtle ways. You may be wondering why it's expected to **save** money even though we would no longer be collecting fees? It's because it's estimated to take 20 million+ people off insurance, which is partially subsidized.
 * Raises exemption for AMT: 3/5. More deductions should be removed and AMT will just become irrelevant. It's a needless complication if the main line tax system were simpler.
 
